@@ -1,5 +1,6 @@
 import requests
 import json
+import argparse
 
 
 BASE_URL = "https://yobit.net/api/3"
@@ -105,14 +106,20 @@ def get_trades(base_currency="btc", quote_currency="usdt", limit=150):
 
 
 def main():
-    # print(get_info())
-    # print(get_ticker(base_currency="xrp"))
-    # print(get_depth(base_currency="xrp", limit=2000))
-    # print(get_trades(base_currency="xrp", limit=2000))
-    # print(get_trades(base_currency="xrp", limit=2000))
+    parser = argparse.ArgumentParser(description="Fetch cryptocurrency data from Yobit API.")
+    parser.add_argument("--mode", choices=["info", "ticker", "depth", "trades"], required=True, help="Mode of operation.")
+    parser.add_argument("--base", default="btc", help="Base currency (e.g., btc).")
+    parser.add_argument("--limit", type=int, default=150, help="Limit for depth or trades (default: 150).")
+    args = parser.parse_args()
 
-    base_currency = input("Enter a coin name: ")
-    print(get_trades(base_currency=base_currency))
+    if args.mode == "info":
+        print(get_info())
+    elif args.mode == "ticker":
+        print(get_ticker(base_currency=args.base))
+    elif args.mode == "depth":
+        print(get_depth(base_currency=args.base, limit=args.limit))
+    elif args.mode == "trades":
+        print(get_trades(base_currency=args.base, limit=args.limit))
 
 
 if __name__ == "__main__":
