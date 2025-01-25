@@ -2,6 +2,1266 @@
     "xrp_usdt": [
         {
             "type": "bid",
+            "price": 3.09191536,
+            "amount": 4.15654379,
+            "tid": 200946967,
+            "timestamp": 1737834019
+        },
+        {
+            "type": "ask",
+            "price": 3.09191536,
+            "amount": 0.00038811,
+            "tid": 200946966,
+            "timestamp": 1737834018
+        },
+        {
+            "type": "ask",
+            "price": 3.0892539,
+            "amount": 4.14655846,
+            "tid": 200946965,
+            "timestamp": 1737830647
+        },
+        {
+            "type": "ask",
+            "price": 3.09103651,
+            "amount": 0.19876799,
+            "tid": 200946964,
+            "timestamp": 1737830647
+        },
+        {
+            "type": "ask",
+            "price": 3.09103652,
+            "amount": 0.00038822,
+            "tid": 200946963,
+            "timestamp": 1737830647
+        },
+        {
+            "type": "bid",
+            "price": 3.17883131,
+            "amount": 3.07812103,
+            "tid": 200946962,
+            "timestamp": 1737823794
+        },
+        {
+            "type": "bid",
+            "price": 3.177907,
+            "amount": 0.19604171,
+            "tid": 200946961,
+            "timestamp": 1737823794
+        },
+        {
+            "type": "bid",
+            "price": 3.08914533,
+            "amount": 19.3242738,
+            "tid": 200946960,
+            "timestamp": 1737822506
+        },
+        {
+            "type": "ask",
+            "price": 3.08914533,
+            "amount": 0.00038846,
+            "tid": 200946959,
+            "timestamp": 1737822503
+        },
+        {
+            "type": "ask",
+            "price": 3.05711329,
+            "amount": 3.89243654,
+            "tid": 200946958,
+            "timestamp": 1737817964
+        },
+        {
+            "type": "ask",
+            "price": 3.05833047,
+            "amount": 0.21534625,
+            "tid": 200946957,
+            "timestamp": 1737817964
+        },
+        {
+            "type": "ask",
+            "price": 3.055,
+            "amount": 5.84751485,
+            "tid": 200946956,
+            "timestamp": 1737815008
+        },
+        {
+            "type": "ask",
+            "price": 3.05500001,
+            "amount": 0.0003928,
+            "tid": 200946955,
+            "timestamp": 1737815008
+        },
+        {
+            "type": "ask",
+            "price": 3.05500002,
+            "amount": 0.0003928,
+            "tid": 200946954,
+            "timestamp": 1737815008
+        },
+        {
+            "type": "ask",
+            "price": 3.05500003,
+            "amount": 0.0003928,
+            "tid": 200946953,
+            "timestamp": 1737815008
+        },
+        {
+            "type": "ask",
+            "price": 3.05500004,
+            "amount": 0.0003928,
+            "tid": 200946952,
+            "timestamp": 1737815008
+        },
+        {
+            "type": "ask",
+            "price": 3.05500005,
+            "amount": 0.0003928,
+            "tid": 200946951,
+            "timestamp": 1737815008
+        },
+        {
+            "type": "ask",
+            "price": 3.05500006,
+            "amount": 0.0003928,
+            "tid": 200946950,
+            "timestamp": 1737815008
+        },
+        {
+            "type": "ask",
+            "price": 3.05500007,
+            "amount": 0.0003928,
+            "tid": 200946949,
+            "timestamp": 1737815008
+        },
+        {
+            "type": "ask",
+            "price": 3.05500008,
+            "amount": 0.0003928,
+            "tid": 200946948,
+            "timestamp": 1737815008
+        },
+        {
+            "type": "ask",
+            "price": 3.05500009,
+            "amount": 0.0003928,
+            "tid": 200946947,
+            "timestamp": 1737815007
+        },
+        {
+            "type": "ask",
+            "price": 3.0550001,
+            "amount": 0.0003928,
+            "tid": 200946946,
+            "timestamp": 1737815007
+        },
+        {
+            "type": "ask",
+            "price": 3.05500011,
+            "amount": 0.0003928,
+            "tid": 200946945,
+            "timestamp": 1737815007
+        },
+        {
+            "type": "ask",
+            "price": 3.05500012,
+            "amount": 0.0003928,
+            "tid": 200946944,
+            "timestamp": 1737815007
+        },
+        {
+            "type": "ask",
+            "price": 3.05500013,
+            "amount": 0.0003928,
+            "tid": 200946943,
+            "timestamp": 1737815007
+        },
+        {
+            "type": "ask",
+            "price": 3.05500014,
+            "amount": 0.0003928,
+            "tid": 200946942,
+            "timestamp": 1737815007
+        },
+        {
+            "type": "ask",
+            "price": 3.05500015,
+            "amount": 0.0003928,
+            "tid": 200946941,
+            "timestamp": 1737815007
+        },
+        {
+            "type": "ask",
+            "price": 3.05500016,
+            "amount": 0.0003928,
+            "tid": 200946940,
+            "timestamp": 1737815007
+        },
+        {
+            "type": "ask",
+            "price": 3.05500017,
+            "amount": 0.0003928,
+            "tid": 200946939,
+            "timestamp": 1737815007
+        },
+        {
+            "type": "ask",
+            "price": 3.05500018,
+            "amount": 0.0003928,
+            "tid": 200946938,
+            "timestamp": 1737815007
+        },
+        {
+            "type": "ask",
+            "price": 3.05500019,
+            "amount": 0.0003928,
+            "tid": 200946937,
+            "timestamp": 1737815007
+        },
+        {
+            "type": "ask",
+            "price": 3.0550002,
+            "amount": 0.0003928,
+            "tid": 200946936,
+            "timestamp": 1737815007
+        },
+        {
+            "type": "ask",
+            "price": 3.05500021,
+            "amount": 0.0003928,
+            "tid": 200946935,
+            "timestamp": 1737815007
+        },
+        {
+            "type": "ask",
+            "price": 3.05500022,
+            "amount": 0.0003928,
+            "tid": 200946934,
+            "timestamp": 1737815006
+        },
+        {
+            "type": "ask",
+            "price": 3.05500023,
+            "amount": 0.0003928,
+            "tid": 200946933,
+            "timestamp": 1737815006
+        },
+        {
+            "type": "ask",
+            "price": 3.05500024,
+            "amount": 0.0003928,
+            "tid": 200946932,
+            "timestamp": 1737815006
+        },
+        {
+            "type": "ask",
+            "price": 3.05500025,
+            "amount": 0.0003928,
+            "tid": 200946931,
+            "timestamp": 1737815006
+        },
+        {
+            "type": "ask",
+            "price": 3.05500026,
+            "amount": 0.0003928,
+            "tid": 200946930,
+            "timestamp": 1737815006
+        },
+        {
+            "type": "ask",
+            "price": 3.05500027,
+            "amount": 0.0003928,
+            "tid": 200946929,
+            "timestamp": 1737815006
+        },
+        {
+            "type": "ask",
+            "price": 3.05500028,
+            "amount": 0.0003928,
+            "tid": 200946928,
+            "timestamp": 1737815006
+        },
+        {
+            "type": "ask",
+            "price": 3.05500029,
+            "amount": 0.0003928,
+            "tid": 200946927,
+            "timestamp": 1737815006
+        },
+        {
+            "type": "ask",
+            "price": 3.0550003,
+            "amount": 0.0003928,
+            "tid": 200946926,
+            "timestamp": 1737815006
+        },
+        {
+            "type": "ask",
+            "price": 3.05500031,
+            "amount": 0.0003928,
+            "tid": 200946925,
+            "timestamp": 1737815006
+        },
+        {
+            "type": "ask",
+            "price": 3.05500032,
+            "amount": 0.0003928,
+            "tid": 200946924,
+            "timestamp": 1737815006
+        },
+        {
+            "type": "ask",
+            "price": 3.05500033,
+            "amount": 0.0003928,
+            "tid": 200946923,
+            "timestamp": 1737815006
+        },
+        {
+            "type": "ask",
+            "price": 3.05500034,
+            "amount": 0.0003928,
+            "tid": 200946922,
+            "timestamp": 1737815006
+        },
+        {
+            "type": "ask",
+            "price": 3.05500035,
+            "amount": 0.0003928,
+            "tid": 200946921,
+            "timestamp": 1737815006
+        },
+        {
+            "type": "ask",
+            "price": 3.05500036,
+            "amount": 0.0003928,
+            "tid": 200946920,
+            "timestamp": 1737815006
+        },
+        {
+            "type": "ask",
+            "price": 3.05500037,
+            "amount": 0.0003928,
+            "tid": 200946919,
+            "timestamp": 1737815005
+        },
+        {
+            "type": "ask",
+            "price": 3.05500038,
+            "amount": 0.0003928,
+            "tid": 200946918,
+            "timestamp": 1737815005
+        },
+        {
+            "type": "ask",
+            "price": 3.05500039,
+            "amount": 0.0003928,
+            "tid": 200946917,
+            "timestamp": 1737815005
+        },
+        {
+            "type": "ask",
+            "price": 3.0550004,
+            "amount": 0.0003928,
+            "tid": 200946916,
+            "timestamp": 1737815005
+        },
+        {
+            "type": "ask",
+            "price": 3.05500041,
+            "amount": 0.0003928,
+            "tid": 200946915,
+            "timestamp": 1737815005
+        },
+        {
+            "type": "ask",
+            "price": 3.05500042,
+            "amount": 0.0003928,
+            "tid": 200946914,
+            "timestamp": 1737815005
+        },
+        {
+            "type": "ask",
+            "price": 3.05500043,
+            "amount": 0.0003928,
+            "tid": 200946913,
+            "timestamp": 1737815005
+        },
+        {
+            "type": "ask",
+            "price": 3.05500044,
+            "amount": 0.0003928,
+            "tid": 200946912,
+            "timestamp": 1737815005
+        },
+        {
+            "type": "ask",
+            "price": 3.05500045,
+            "amount": 0.0003928,
+            "tid": 200946911,
+            "timestamp": 1737815005
+        },
+        {
+            "type": "ask",
+            "price": 3.05500046,
+            "amount": 0.0003928,
+            "tid": 200946910,
+            "timestamp": 1737815005
+        },
+        {
+            "type": "ask",
+            "price": 3.05500047,
+            "amount": 0.0003928,
+            "tid": 200946909,
+            "timestamp": 1737815005
+        },
+        {
+            "type": "ask",
+            "price": 3.05500048,
+            "amount": 0.0003928,
+            "tid": 200946908,
+            "timestamp": 1737815005
+        },
+        {
+            "type": "ask",
+            "price": 3.05500049,
+            "amount": 0.0003928,
+            "tid": 200946907,
+            "timestamp": 1737815005
+        },
+        {
+            "type": "ask",
+            "price": 3.0550005,
+            "amount": 0.0003928,
+            "tid": 200946906,
+            "timestamp": 1737815005
+        },
+        {
+            "type": "ask",
+            "price": 3.05500051,
+            "amount": 0.0003928,
+            "tid": 200946905,
+            "timestamp": 1737815005
+        },
+        {
+            "type": "ask",
+            "price": 3.05500052,
+            "amount": 0.0003928,
+            "tid": 200946904,
+            "timestamp": 1737815005
+        },
+        {
+            "type": "ask",
+            "price": 3.05500053,
+            "amount": 0.0003928,
+            "tid": 200946903,
+            "timestamp": 1737815005
+        },
+        {
+            "type": "ask",
+            "price": 3.05500054,
+            "amount": 0.0003928,
+            "tid": 200946902,
+            "timestamp": 1737815005
+        },
+        {
+            "type": "ask",
+            "price": 3.05500055,
+            "amount": 0.0003928,
+            "tid": 200946901,
+            "timestamp": 1737815004
+        },
+        {
+            "type": "ask",
+            "price": 3.05500056,
+            "amount": 0.0003928,
+            "tid": 200946900,
+            "timestamp": 1737815004
+        },
+        {
+            "type": "ask",
+            "price": 3.05500057,
+            "amount": 0.0003928,
+            "tid": 200946899,
+            "timestamp": 1737815004
+        },
+        {
+            "type": "ask",
+            "price": 3.05500058,
+            "amount": 0.0003928,
+            "tid": 200946898,
+            "timestamp": 1737815004
+        },
+        {
+            "type": "ask",
+            "price": 3.05500059,
+            "amount": 0.0003928,
+            "tid": 200946897,
+            "timestamp": 1737815004
+        },
+        {
+            "type": "ask",
+            "price": 3.0550006,
+            "amount": 0.0003928,
+            "tid": 200946896,
+            "timestamp": 1737815004
+        },
+        {
+            "type": "ask",
+            "price": 3.05500061,
+            "amount": 0.0003928,
+            "tid": 200946895,
+            "timestamp": 1737815004
+        },
+        {
+            "type": "ask",
+            "price": 3.05500062,
+            "amount": 0.0003928,
+            "tid": 200946894,
+            "timestamp": 1737815004
+        },
+        {
+            "type": "ask",
+            "price": 3.05500063,
+            "amount": 0.0003928,
+            "tid": 200946893,
+            "timestamp": 1737815004
+        },
+        {
+            "type": "ask",
+            "price": 3.05500064,
+            "amount": 0.0003928,
+            "tid": 200946892,
+            "timestamp": 1737815004
+        },
+        {
+            "type": "ask",
+            "price": 3.05500065,
+            "amount": 0.0003928,
+            "tid": 200946891,
+            "timestamp": 1737815004
+        },
+        {
+            "type": "ask",
+            "price": 3.05500066,
+            "amount": 0.0003928,
+            "tid": 200946890,
+            "timestamp": 1737815004
+        },
+        {
+            "type": "ask",
+            "price": 3.05500067,
+            "amount": 0.0003928,
+            "tid": 200946889,
+            "timestamp": 1737815004
+        },
+        {
+            "type": "ask",
+            "price": 3.05500068,
+            "amount": 0.0003928,
+            "tid": 200946888,
+            "timestamp": 1737815004
+        },
+        {
+            "type": "ask",
+            "price": 3.05500069,
+            "amount": 0.0003928,
+            "tid": 200946887,
+            "timestamp": 1737815004
+        },
+        {
+            "type": "ask",
+            "price": 3.0550007,
+            "amount": 0.0003928,
+            "tid": 200946886,
+            "timestamp": 1737815003
+        },
+        {
+            "type": "ask",
+            "price": 3.05500071,
+            "amount": 0.0003928,
+            "tid": 200946885,
+            "timestamp": 1737815003
+        },
+        {
+            "type": "ask",
+            "price": 3.05500072,
+            "amount": 0.0003928,
+            "tid": 200946884,
+            "timestamp": 1737815003
+        },
+        {
+            "type": "ask",
+            "price": 3.05500073,
+            "amount": 0.0003928,
+            "tid": 200946883,
+            "timestamp": 1737815003
+        },
+        {
+            "type": "ask",
+            "price": 3.05500074,
+            "amount": 0.0003928,
+            "tid": 200946882,
+            "timestamp": 1737815003
+        },
+        {
+            "type": "ask",
+            "price": 3.05500075,
+            "amount": 0.0003928,
+            "tid": 200946881,
+            "timestamp": 1737815003
+        },
+        {
+            "type": "ask",
+            "price": 3.05500076,
+            "amount": 0.0003928,
+            "tid": 200946880,
+            "timestamp": 1737815003
+        },
+        {
+            "type": "ask",
+            "price": 3.05500077,
+            "amount": 0.0003928,
+            "tid": 200946879,
+            "timestamp": 1737815003
+        },
+        {
+            "type": "ask",
+            "price": 3.05500078,
+            "amount": 0.0003928,
+            "tid": 200946878,
+            "timestamp": 1737815003
+        },
+        {
+            "type": "ask",
+            "price": 3.05500079,
+            "amount": 0.0003928,
+            "tid": 200946877,
+            "timestamp": 1737815003
+        },
+        {
+            "type": "ask",
+            "price": 3.0550008,
+            "amount": 0.0003928,
+            "tid": 200946876,
+            "timestamp": 1737815003
+        },
+        {
+            "type": "ask",
+            "price": 3.05500081,
+            "amount": 0.0003928,
+            "tid": 200946875,
+            "timestamp": 1737815003
+        },
+        {
+            "type": "ask",
+            "price": 3.05500082,
+            "amount": 0.0003928,
+            "tid": 200946874,
+            "timestamp": 1737815003
+        },
+        {
+            "type": "ask",
+            "price": 3.05500083,
+            "amount": 0.0003928,
+            "tid": 200946873,
+            "timestamp": 1737815003
+        },
+        {
+            "type": "ask",
+            "price": 3.05500084,
+            "amount": 0.0003928,
+            "tid": 200946872,
+            "timestamp": 1737815003
+        },
+        {
+            "type": "ask",
+            "price": 3.05500085,
+            "amount": 0.0003928,
+            "tid": 200946871,
+            "timestamp": 1737815002
+        },
+        {
+            "type": "ask",
+            "price": 3.05500086,
+            "amount": 0.0003928,
+            "tid": 200946870,
+            "timestamp": 1737815002
+        },
+        {
+            "type": "ask",
+            "price": 3.05500087,
+            "amount": 0.0003928,
+            "tid": 200946869,
+            "timestamp": 1737815002
+        },
+        {
+            "type": "ask",
+            "price": 3.05500088,
+            "amount": 0.0003928,
+            "tid": 200946868,
+            "timestamp": 1737815002
+        },
+        {
+            "type": "ask",
+            "price": 3.05500089,
+            "amount": 0.0003928,
+            "tid": 200946867,
+            "timestamp": 1737815002
+        },
+        {
+            "type": "ask",
+            "price": 3.0550009,
+            "amount": 0.0003928,
+            "tid": 200946866,
+            "timestamp": 1737815002
+        },
+        {
+            "type": "ask",
+            "price": 3.05500091,
+            "amount": 0.0003928,
+            "tid": 200946865,
+            "timestamp": 1737815002
+        },
+        {
+            "type": "ask",
+            "price": 3.05500092,
+            "amount": 0.0003928,
+            "tid": 200946864,
+            "timestamp": 1737815002
+        },
+        {
+            "type": "ask",
+            "price": 3.05500093,
+            "amount": 0.0003928,
+            "tid": 200946863,
+            "timestamp": 1737815002
+        },
+        {
+            "type": "ask",
+            "price": 3.05500094,
+            "amount": 0.0003928,
+            "tid": 200946862,
+            "timestamp": 1737815002
+        },
+        {
+            "type": "ask",
+            "price": 3.05500095,
+            "amount": 0.0003928,
+            "tid": 200946861,
+            "timestamp": 1737815002
+        },
+        {
+            "type": "ask",
+            "price": 3.05500096,
+            "amount": 0.0003928,
+            "tid": 200946860,
+            "timestamp": 1737815002
+        },
+        {
+            "type": "ask",
+            "price": 3.05500097,
+            "amount": 0.0003928,
+            "tid": 200946859,
+            "timestamp": 1737815002
+        },
+        {
+            "type": "ask",
+            "price": 3.05500098,
+            "amount": 0.0003928,
+            "tid": 200946858,
+            "timestamp": 1737815002
+        },
+        {
+            "type": "ask",
+            "price": 3.05500099,
+            "amount": 0.0003928,
+            "tid": 200946857,
+            "timestamp": 1737815002
+        },
+        {
+            "type": "ask",
+            "price": 3.055001,
+            "amount": 0.0003928,
+            "tid": 200946856,
+            "timestamp": 1737815002
+        },
+        {
+            "type": "ask",
+            "price": 3.05500101,
+            "amount": 0.0003928,
+            "tid": 200946855,
+            "timestamp": 1737815002
+        },
+        {
+            "type": "ask",
+            "price": 3.08415326,
+            "amount": 0.22546566,
+            "tid": 200946854,
+            "timestamp": 1737815002
+        },
+        {
+            "type": "ask",
+            "price": 3.08488827,
+            "amount": 0.00038899,
+            "tid": 200946853,
+            "timestamp": 1737815001
+        },
+        {
+            "type": "ask",
+            "price": 3.17883131,
+            "amount": 0.01304228,
+            "tid": 200946852,
+            "timestamp": 1737815001
+        },
+        {
+            "type": "ask",
+            "price": 3.17883131,
+            "amount": 6.1,
+            "tid": 200946851,
+            "timestamp": 1737815001
+        },
+        {
+            "type": "bid",
+            "price": 3.17883131,
+            "amount": 0.03978155,
+            "tid": 200946850,
+            "timestamp": 1737815001
+        },
+        {
+            "type": "ask",
+            "price": 3.055,
+            "amount": 18.87412789,
+            "tid": 200946849,
+            "timestamp": 1737786857
+        },
+        {
+            "type": "ask",
+            "price": 3.06601785,
+            "amount": 0.00039139,
+            "tid": 200946848,
+            "timestamp": 1737786857
+        },
+        {
+            "type": "ask",
+            "price": 3.06601786,
+            "amount": 0.00039139,
+            "tid": 200946847,
+            "timestamp": 1737786857
+        },
+        {
+            "type": "ask",
+            "price": 3.06601787,
+            "amount": 0.00039139,
+            "tid": 200946846,
+            "timestamp": 1737786857
+        },
+        {
+            "type": "ask",
+            "price": 3.06601788,
+            "amount": 0.00039139,
+            "tid": 200946845,
+            "timestamp": 1737786857
+        },
+        {
+            "type": "ask",
+            "price": 3.06601789,
+            "amount": 0.00039139,
+            "tid": 200946844,
+            "timestamp": 1737786856
+        },
+        {
+            "type": "ask",
+            "price": 3.0660179,
+            "amount": 0.00039139,
+            "tid": 200946843,
+            "timestamp": 1737786856
+        },
+        {
+            "type": "ask",
+            "price": 3.06601792,
+            "amount": 0.00039139,
+            "tid": 200946842,
+            "timestamp": 1737786856
+        },
+        {
+            "type": "ask",
+            "price": 3.06601793,
+            "amount": 0.00039139,
+            "tid": 200946841,
+            "timestamp": 1737786856
+        },
+        {
+            "type": "ask",
+            "price": 3.06601794,
+            "amount": 0.00039139,
+            "tid": 200946840,
+            "timestamp": 1737786856
+        },
+        {
+            "type": "ask",
+            "price": 3.06601795,
+            "amount": 0.00039139,
+            "tid": 200946839,
+            "timestamp": 1737786856
+        },
+        {
+            "type": "ask",
+            "price": 3.06601796,
+            "amount": 0.00039139,
+            "tid": 200946838,
+            "timestamp": 1737786856
+        },
+        {
+            "type": "ask",
+            "price": 3.06601797,
+            "amount": 0.00039139,
+            "tid": 200946837,
+            "timestamp": 1737786856
+        },
+        {
+            "type": "ask",
+            "price": 3.06601798,
+            "amount": 0.00039139,
+            "tid": 200946836,
+            "timestamp": 1737786856
+        },
+        {
+            "type": "ask",
+            "price": 3.06601799,
+            "amount": 0.00039139,
+            "tid": 200946835,
+            "timestamp": 1737786856
+        },
+        {
+            "type": "ask",
+            "price": 3.06601799,
+            "amount": 0.00039139,
+            "tid": 200946834,
+            "timestamp": 1737786856
+        },
+        {
+            "type": "ask",
+            "price": 3.066018,
+            "amount": 0.00039139,
+            "tid": 200946833,
+            "timestamp": 1737786856
+        },
+        {
+            "type": "ask",
+            "price": 3.06601801,
+            "amount": 0.00039139,
+            "tid": 200946832,
+            "timestamp": 1737786856
+        },
+        {
+            "type": "ask",
+            "price": 3.06601802,
+            "amount": 0.00039139,
+            "tid": 200946831,
+            "timestamp": 1737786856
+        },
+        {
+            "type": "ask",
+            "price": 3.06601803,
+            "amount": 0.00039139,
+            "tid": 200946830,
+            "timestamp": 1737786856
+        },
+        {
+            "type": "ask",
+            "price": 3.06601804,
+            "amount": 0.00039139,
+            "tid": 200946829,
+            "timestamp": 1737786855
+        },
+        {
+            "type": "ask",
+            "price": 3.06601805,
+            "amount": 0.00039139,
+            "tid": 200946828,
+            "timestamp": 1737786855
+        },
+        {
+            "type": "ask",
+            "price": 3.06601806,
+            "amount": 0.00039139,
+            "tid": 200946827,
+            "timestamp": 1737786855
+        },
+        {
+            "type": "ask",
+            "price": 3.06805587,
+            "amount": 0.25393428,
+            "tid": 200946826,
+            "timestamp": 1737786855
+        },
+        {
+            "type": "ask",
+            "price": 3.06601807,
+            "amount": 0.00039139,
+            "tid": 200946825,
+            "timestamp": 1737786855
+        },
+        {
+            "type": "ask",
+            "price": 3.06601808,
+            "amount": 0.00039139,
+            "tid": 200946824,
+            "timestamp": 1737786855
+        },
+        {
+            "type": "ask",
+            "price": 3.06601809,
+            "amount": 0.00039139,
+            "tid": 200946823,
+            "timestamp": 1737786855
+        },
+        {
+            "type": "ask",
+            "price": 3.0660181,
+            "amount": 0.00039139,
+            "tid": 200946822,
+            "timestamp": 1737786855
+        },
+        {
+            "type": "ask",
+            "price": 3.06601811,
+            "amount": 0.00039139,
+            "tid": 200946821,
+            "timestamp": 1737786855
+        },
+        {
+            "type": "ask",
+            "price": 3.06601812,
+            "amount": 0.00039139,
+            "tid": 200946820,
+            "timestamp": 1737786855
+        },
+        {
+            "type": "ask",
+            "price": 3.06601813,
+            "amount": 0.00039139,
+            "tid": 200946819,
+            "timestamp": 1737786855
+        },
+        {
+            "type": "ask",
+            "price": 3.06601814,
+            "amount": 0.00039139,
+            "tid": 200946818,
+            "timestamp": 1737786855
+        },
+        {
+            "type": "ask",
+            "price": 3.06601815,
+            "amount": 0.00039139,
+            "tid": 200946817,
+            "timestamp": 1737786855
+        },
+        {
+            "type": "ask",
+            "price": 3.06601816,
+            "amount": 0.00039139,
+            "tid": 200946816,
+            "timestamp": 1737786855
+        },
+        {
+            "type": "ask",
+            "price": 3.06601817,
+            "amount": 0.00039139,
+            "tid": 200946815,
+            "timestamp": 1737786854
+        },
+        {
+            "type": "ask",
+            "price": 3.06601818,
+            "amount": 0.00039139,
+            "tid": 200946814,
+            "timestamp": 1737786854
+        },
+        {
+            "type": "ask",
+            "price": 3.06601819,
+            "amount": 0.00039139,
+            "tid": 200946813,
+            "timestamp": 1737786854
+        },
+        {
+            "type": "ask",
+            "price": 3.0660182,
+            "amount": 0.00039139,
+            "tid": 200946812,
+            "timestamp": 1737786854
+        },
+        {
+            "type": "ask",
+            "price": 3.06601821,
+            "amount": 0.00039139,
+            "tid": 200946811,
+            "timestamp": 1737786854
+        },
+        {
+            "type": "ask",
+            "price": 3.06601821,
+            "amount": 0.00039139,
+            "tid": 200946810,
+            "timestamp": 1737786854
+        },
+        {
+            "type": "ask",
+            "price": 3.08413,
+            "amount": 0.35666595,
+            "tid": 200946809,
+            "timestamp": 1737786854
+        },
+        {
+            "type": "ask",
+            "price": 3.08643584,
+            "amount": 0.22181116,
+            "tid": 200946808,
+            "timestamp": 1737786854
+        },
+        {
+            "type": "ask",
+            "price": 3.08643584,
+            "amount": 5.77818884,
+            "tid": 200946807,
+            "timestamp": 1737786850
+        },
+        {
+            "type": "ask",
+            "price": 3.09308165,
+            "amount": 0.00038796,
+            "tid": 200946806,
+            "timestamp": 1737786850
+        },
+        {
+            "type": "ask",
+            "price": 3.16700054,
+            "amount": 11.40170636,
+            "tid": 200946805,
+            "timestamp": 1737786845
+        },
+        {
+            "type": "ask",
+            "price": 3.16700054,
+            "amount": 8.31970574,
+            "tid": 200946804,
+            "timestamp": 1737786845
+        },
+        {
+            "type": "ask",
+            "price": 3.16700054,
+            "amount": 5.7785879,
+            "tid": 200946803,
+            "timestamp": 1737786844
+        },
+        {
+            "type": "ask",
+            "price": 3.08413,
+            "amount": 0.03242405,
+            "tid": 200946802,
+            "timestamp": 1737758118
+        },
+        {
+            "type": "bid",
+            "price": 3.2,
+            "amount": 0.26253551,
+            "tid": 200946801,
+            "timestamp": 1737758097
+        },
+        {
+            "type": "bid",
+            "price": 3.17674357,
+            "amount": 0.06127567,
+            "tid": 200946800,
+            "timestamp": 1737758097
+        },
+        {
+            "type": "bid",
+            "price": 3.17674357,
+            "amount": 1e-08,
+            "tid": 200946799,
+            "timestamp": 1737758093
+        },
+        {
+            "type": "bid",
+            "price": 3.08451364,
+            "amount": 0.32381117,
+            "tid": 200946798,
+            "timestamp": 1737758093
+        },
+        {
+            "type": "ask",
+            "price": 3.08451364,
+            "amount": 0.00038904,
+            "tid": 200946797,
+            "timestamp": 1737758092
+        },
+        {
+            "type": "ask",
+            "price": 3.11,
+            "amount": 29.83225003,
+            "tid": 200946796,
+            "timestamp": 1737751656
+        },
+        {
+            "type": "ask",
+            "price": 3.11,
+            "amount": 4.95447708,
+            "tid": 200946795,
+            "timestamp": 1737751656
+        },
+        {
+            "type": "ask",
+            "price": 3.11000001,
+            "amount": 0.00038585,
+            "tid": 200946794,
+            "timestamp": 1737751656
+        },
+        {
+            "type": "bid",
+            "price": 3.11326383,
+            "amount": 0.12693874,
+            "tid": 200946793,
+            "timestamp": 1737751287
+        },
+        {
+            "type": "bid",
+            "price": 3.11326383,
+            "amount": 0.00135331,
+            "tid": 200946792,
+            "timestamp": 1737751283
+        },
+        {
+            "type": "bid",
+            "price": 3.11326383,
+            "amount": 0.47462596,
+            "tid": 200946791,
+            "timestamp": 1737751271
+        },
+        {
+            "type": "ask",
+            "price": 3.11326383,
+            "amount": 0.02314496,
+            "tid": 200946790,
+            "timestamp": 1737751271
+        },
+        {
+            "type": "ask",
+            "price": 3.11326383,
+            "amount": 6.8996165,
+            "tid": 200946789,
+            "timestamp": 1737751271
+        },
+        {
+            "type": "ask",
+            "price": 3.12906041,
+            "amount": 0.0003835,
+            "tid": 200946788,
+            "timestamp": 1737751270
+        },
+        {
+            "type": "bid",
             "price": 3.21,
             "amount": 0.01507331,
             "tid": 200946787,
@@ -1399,6 +2659,4346 @@
             "amount": 0.14933591,
             "tid": 200946588,
             "timestamp": 1737705154
+        },
+        {
+            "type": "ask",
+            "price": 3.07969218,
+            "amount": 0.00038965,
+            "tid": 200946587,
+            "timestamp": 1737705152
+        },
+        {
+            "type": "bid",
+            "price": 3.05615516,
+            "amount": 0.01375537,
+            "tid": 200946586,
+            "timestamp": 1737664267
+        },
+        {
+            "type": "bid",
+            "price": 3.05615516,
+            "amount": 7.26518812,
+            "tid": 200946585,
+            "timestamp": 1737664267
+        },
+        {
+            "type": "bid",
+            "price": 3.05615516,
+            "amount": 5.77655082,
+            "tid": 200946584,
+            "timestamp": 1737664266
+        },
+        {
+            "type": "ask",
+            "price": 3.05615516,
+            "amount": 0.21532627,
+            "tid": 200946583,
+            "timestamp": 1737664266
+        },
+        {
+            "type": "bid",
+            "price": 3.15185597,
+            "amount": 0.00316638,
+            "tid": 200946582,
+            "timestamp": 1737663685
+        },
+        {
+            "type": "bid",
+            "price": 3.15185597,
+            "amount": 0.05838027,
+            "tid": 200946581,
+            "timestamp": 1737663668
+        },
+        {
+            "type": "ask",
+            "price": 3.10078086,
+            "amount": 0.0048059,
+            "tid": 200946580,
+            "timestamp": 1737655697
+        },
+        {
+            "type": "ask",
+            "price": 3.10078086,
+            "amount": 0.00445161,
+            "tid": 200946579,
+            "timestamp": 1737655686
+        },
+        {
+            "type": "ask",
+            "price": 3.11699471,
+            "amount": 0.00038499,
+            "tid": 200946578,
+            "timestamp": 1737655686
+        },
+        {
+            "type": "ask",
+            "price": 3.1696642,
+            "amount": 0.07771004,
+            "tid": 200946577,
+            "timestamp": 1737653815
+        },
+        {
+            "type": "ask",
+            "price": 3.1696642,
+            "amount": 13.1,
+            "tid": 200946576,
+            "timestamp": 1737653815
+        },
+        {
+            "type": "bid",
+            "price": 3.1696642,
+            "amount": 0.09311054,
+            "tid": 200946575,
+            "timestamp": 1737653813
+        },
+        {
+            "type": "bid",
+            "price": 3.17,
+            "amount": 0.59155207,
+            "tid": 200946574,
+            "timestamp": 1737648948
+        },
+        {
+            "type": "bid",
+            "price": 3.17,
+            "amount": 141.40844793,
+            "tid": 200946573,
+            "timestamp": 1737648948
+        },
+        {
+            "type": "bid",
+            "price": 3.16797201,
+            "amount": 0.00039015,
+            "tid": 200946572,
+            "timestamp": 1737648948
+        },
+        {
+            "type": "bid",
+            "price": 3.16544041,
+            "amount": 0.00039047,
+            "tid": 200946571,
+            "timestamp": 1737648948
+        },
+        {
+            "type": "bid",
+            "price": 3.16290882,
+            "amount": 0.00039078,
+            "tid": 200946570,
+            "timestamp": 1737648948
+        },
+        {
+            "type": "bid",
+            "price": 3.16095263,
+            "amount": 0.00039109,
+            "tid": 200946569,
+            "timestamp": 1737648948
+        },
+        {
+            "type": "bid",
+            "price": 3.16095263,
+            "amount": 0.00039203,
+            "tid": 200946568,
+            "timestamp": 1737648948
+        },
+        {
+            "type": "bid",
+            "price": 3.1604977,
+            "amount": 0.25035481,
+            "tid": 200946567,
+            "timestamp": 1737648948
+        },
+        {
+            "type": "ask",
+            "price": 3.11545953,
+            "amount": 0.03182798,
+            "tid": 200946566,
+            "timestamp": 1737643439
+        },
+        {
+            "type": "ask",
+            "price": 3.11545954,
+            "amount": 0.00038518,
+            "tid": 200946565,
+            "timestamp": 1737643426
+        },
+        {
+            "type": "ask",
+            "price": 3.15,
+            "amount": 142,
+            "tid": 200946564,
+            "timestamp": 1737643190
+        },
+        {
+            "type": "ask",
+            "price": 3.07571382,
+            "amount": 0.03264984,
+            "tid": 200946563,
+            "timestamp": 1737642917
+        },
+        {
+            "type": "ask",
+            "price": 3.07571382,
+            "amount": 0.03226048,
+            "tid": 200946562,
+            "timestamp": 1737642906
+        },
+        {
+            "type": "ask",
+            "price": 3.0819532,
+            "amount": 0.00038936,
+            "tid": 200946561,
+            "timestamp": 1737642906
+        },
+        {
+            "type": "bid",
+            "price": 3.08195319,
+            "amount": 66.66666667,
+            "tid": 200946560,
+            "timestamp": 1737639637
+        },
+        {
+            "type": "bid",
+            "price": 3.08166946,
+            "amount": 0.30722893,
+            "tid": 200946559,
+            "timestamp": 1737639637
+        },
+        {
+            "type": "ask",
+            "price": 3.0560381,
+            "amount": 0.00039267,
+            "tid": 200946558,
+            "timestamp": 1737638239
+        },
+        {
+            "type": "ask",
+            "price": 3.05849596,
+            "amount": 0.00039235,
+            "tid": 200946557,
+            "timestamp": 1737638238
+        },
+        {
+            "type": "ask",
+            "price": 3.06095382,
+            "amount": 0.00039203,
+            "tid": 200946556,
+            "timestamp": 1737638238
+        },
+        {
+            "type": "ask",
+            "price": 3.06341168,
+            "amount": 0.00039172,
+            "tid": 200946555,
+            "timestamp": 1737638238
+        },
+        {
+            "type": "ask",
+            "price": 3.06586954,
+            "amount": 0.00039141,
+            "tid": 200946554,
+            "timestamp": 1737638238
+        },
+        {
+            "type": "ask",
+            "price": 3.0683274,
+            "amount": 0.00039109,
+            "tid": 200946553,
+            "timestamp": 1737638238
+        },
+        {
+            "type": "ask",
+            "price": 3.07078526,
+            "amount": 0.00039078,
+            "tid": 200946552,
+            "timestamp": 1737638238
+        },
+        {
+            "type": "ask",
+            "price": 3.07324312,
+            "amount": 0.00039047,
+            "tid": 200946551,
+            "timestamp": 1737638238
+        },
+        {
+            "type": "ask",
+            "price": 3.07570098,
+            "amount": 0.00039015,
+            "tid": 200946550,
+            "timestamp": 1737638238
+        },
+        {
+            "type": "ask",
+            "price": 3.07786041,
+            "amount": 0.00038988,
+            "tid": 200946549,
+            "timestamp": 1737638238
+        },
+        {
+            "type": "ask",
+            "price": 3.07815884,
+            "amount": 0.00038984,
+            "tid": 200946548,
+            "timestamp": 1737638238
+        },
+        {
+            "type": "ask",
+            "price": 3.07854254,
+            "amount": 0.00038979,
+            "tid": 200946547,
+            "timestamp": 1737638238
+        },
+        {
+            "type": "ask",
+            "price": 3.07922467,
+            "amount": 0.00038971,
+            "tid": 200946546,
+            "timestamp": 1737638238
+        },
+        {
+            "type": "ask",
+            "price": 3.08195319,
+            "amount": 611.90366048,
+            "tid": 200946545,
+            "timestamp": 1737638238
+        },
+        {
+            "type": "ask",
+            "price": 3.082,
+            "amount": 26.25144446,
+            "tid": 200946544,
+            "timestamp": 1737638238
+        },
+        {
+            "type": "ask",
+            "price": 3.08702023,
+            "amount": 0.00038872,
+            "tid": 200946543,
+            "timestamp": 1737638231
+        },
+        {
+            "type": "ask",
+            "price": 3.08866028,
+            "amount": 0.00038852,
+            "tid": 200946542,
+            "timestamp": 1737638231
+        },
+        {
+            "type": "ask",
+            "price": 3.08866029,
+            "amount": 0.00038852,
+            "tid": 200946541,
+            "timestamp": 1737638231
+        },
+        {
+            "type": "ask",
+            "price": 3.0886603,
+            "amount": 0.00038852,
+            "tid": 200946540,
+            "timestamp": 1737638231
+        },
+        {
+            "type": "ask",
+            "price": 3.08866031,
+            "amount": 0.00038852,
+            "tid": 200946539,
+            "timestamp": 1737638231
+        },
+        {
+            "type": "ask",
+            "price": 3.08866032,
+            "amount": 0.00038852,
+            "tid": 200946538,
+            "timestamp": 1737638231
+        },
+        {
+            "type": "ask",
+            "price": 3.08866033,
+            "amount": 0.00038852,
+            "tid": 200946537,
+            "timestamp": 1737638231
+        },
+        {
+            "type": "ask",
+            "price": 3.08866034,
+            "amount": 0.00038852,
+            "tid": 200946536,
+            "timestamp": 1737638230
+        },
+        {
+            "type": "ask",
+            "price": 3.08866034,
+            "amount": 0.00038852,
+            "tid": 200946535,
+            "timestamp": 1737638230
+        },
+        {
+            "type": "ask",
+            "price": 3.08866035,
+            "amount": 0.00038852,
+            "tid": 200946534,
+            "timestamp": 1737638230
+        },
+        {
+            "type": "ask",
+            "price": 3.08866035,
+            "amount": 0.00038852,
+            "tid": 200946533,
+            "timestamp": 1737638230
+        },
+        {
+            "type": "ask",
+            "price": 3.08866036,
+            "amount": 0.00038852,
+            "tid": 200946532,
+            "timestamp": 1737638230
+        },
+        {
+            "type": "ask",
+            "price": 3.08866036,
+            "amount": 0.00038852,
+            "tid": 200946531,
+            "timestamp": 1737638230
+        },
+        {
+            "type": "ask",
+            "price": 3.08866037,
+            "amount": 0.00038852,
+            "tid": 200946530,
+            "timestamp": 1737638230
+        },
+        {
+            "type": "ask",
+            "price": 3.08866038,
+            "amount": 0.00038852,
+            "tid": 200946529,
+            "timestamp": 1737638230
+        },
+        {
+            "type": "ask",
+            "price": 3.08866039,
+            "amount": 0.00038852,
+            "tid": 200946528,
+            "timestamp": 1737638230
+        },
+        {
+            "type": "ask",
+            "price": 3.0886604,
+            "amount": 0.00038852,
+            "tid": 200946527,
+            "timestamp": 1737638230
+        },
+        {
+            "type": "ask",
+            "price": 3.08866041,
+            "amount": 0.00038852,
+            "tid": 200946526,
+            "timestamp": 1737638230
+        },
+        {
+            "type": "ask",
+            "price": 3.08866042,
+            "amount": 0.00038852,
+            "tid": 200946525,
+            "timestamp": 1737638230
+        },
+        {
+            "type": "ask",
+            "price": 3.08866043,
+            "amount": 0.00038852,
+            "tid": 200946524,
+            "timestamp": 1737638230
+        },
+        {
+            "type": "ask",
+            "price": 3.08866044,
+            "amount": 0.00038852,
+            "tid": 200946523,
+            "timestamp": 1737638230
+        },
+        {
+            "type": "ask",
+            "price": 3.08866045,
+            "amount": 0.00038852,
+            "tid": 200946522,
+            "timestamp": 1737638229
+        },
+        {
+            "type": "ask",
+            "price": 3.08866046,
+            "amount": 0.00038852,
+            "tid": 200946521,
+            "timestamp": 1737638229
+        },
+        {
+            "type": "ask",
+            "price": 3.08866047,
+            "amount": 0.00038852,
+            "tid": 200946520,
+            "timestamp": 1737638229
+        },
+        {
+            "type": "ask",
+            "price": 3.08866048,
+            "amount": 0.00038852,
+            "tid": 200946519,
+            "timestamp": 1737638229
+        },
+        {
+            "type": "ask",
+            "price": 3.08866049,
+            "amount": 0.00038852,
+            "tid": 200946518,
+            "timestamp": 1737638229
+        },
+        {
+            "type": "ask",
+            "price": 3.0886605,
+            "amount": 0.00038852,
+            "tid": 200946517,
+            "timestamp": 1737638229
+        },
+        {
+            "type": "ask",
+            "price": 3.08866051,
+            "amount": 0.00038852,
+            "tid": 200946516,
+            "timestamp": 1737638229
+        },
+        {
+            "type": "ask",
+            "price": 3.08866052,
+            "amount": 0.00038852,
+            "tid": 200946515,
+            "timestamp": 1737638229
+        },
+        {
+            "type": "ask",
+            "price": 3.08866053,
+            "amount": 0.00038852,
+            "tid": 200946514,
+            "timestamp": 1737638229
+        },
+        {
+            "type": "ask",
+            "price": 3.08866053,
+            "amount": 0.00038852,
+            "tid": 200946513,
+            "timestamp": 1737638229
+        },
+        {
+            "type": "ask",
+            "price": 3.08866054,
+            "amount": 0.00038852,
+            "tid": 200946512,
+            "timestamp": 1737638229
+        },
+        {
+            "type": "ask",
+            "price": 3.08866055,
+            "amount": 0.00038852,
+            "tid": 200946511,
+            "timestamp": 1737638229
+        },
+        {
+            "type": "ask",
+            "price": 3.08866056,
+            "amount": 0.00038852,
+            "tid": 200946510,
+            "timestamp": 1737638229
+        },
+        {
+            "type": "ask",
+            "price": 3.08866057,
+            "amount": 0.00038852,
+            "tid": 200946509,
+            "timestamp": 1737638229
+        },
+        {
+            "type": "ask",
+            "price": 3.08866058,
+            "amount": 0.00038852,
+            "tid": 200946508,
+            "timestamp": 1737638228
+        },
+        {
+            "type": "ask",
+            "price": 3.08866059,
+            "amount": 0.00038852,
+            "tid": 200946507,
+            "timestamp": 1737638228
+        },
+        {
+            "type": "ask",
+            "price": 3.0886606,
+            "amount": 0.00038852,
+            "tid": 200946506,
+            "timestamp": 1737638228
+        },
+        {
+            "type": "ask",
+            "price": 3.08866061,
+            "amount": 0.00038852,
+            "tid": 200946505,
+            "timestamp": 1737638228
+        },
+        {
+            "type": "ask",
+            "price": 3.08866062,
+            "amount": 0.00038852,
+            "tid": 200946504,
+            "timestamp": 1737638228
+        },
+        {
+            "type": "ask",
+            "price": 3.08866063,
+            "amount": 0.00038852,
+            "tid": 200946503,
+            "timestamp": 1737638228
+        },
+        {
+            "type": "ask",
+            "price": 3.08866064,
+            "amount": 0.00038852,
+            "tid": 200946502,
+            "timestamp": 1737638228
+        },
+        {
+            "type": "ask",
+            "price": 3.08866065,
+            "amount": 0.00038852,
+            "tid": 200946501,
+            "timestamp": 1737638228
+        },
+        {
+            "type": "ask",
+            "price": 3.08866066,
+            "amount": 0.00038852,
+            "tid": 200946500,
+            "timestamp": 1737638228
+        },
+        {
+            "type": "ask",
+            "price": 3.08866067,
+            "amount": 0.00038852,
+            "tid": 200946499,
+            "timestamp": 1737638228
+        },
+        {
+            "type": "ask",
+            "price": 3.08866068,
+            "amount": 0.00038852,
+            "tid": 200946498,
+            "timestamp": 1737638228
+        },
+        {
+            "type": "ask",
+            "price": 3.08866069,
+            "amount": 0.00038852,
+            "tid": 200946497,
+            "timestamp": 1737638228
+        },
+        {
+            "type": "ask",
+            "price": 3.0886607,
+            "amount": 0.00038852,
+            "tid": 200946496,
+            "timestamp": 1737638228
+        },
+        {
+            "type": "ask",
+            "price": 3.08866071,
+            "amount": 0.00038852,
+            "tid": 200946495,
+            "timestamp": 1737638228
+        },
+        {
+            "type": "ask",
+            "price": 3.08866072,
+            "amount": 0.00038852,
+            "tid": 200946494,
+            "timestamp": 1737638228
+        },
+        {
+            "type": "ask",
+            "price": 3.08866073,
+            "amount": 0.00038852,
+            "tid": 200946493,
+            "timestamp": 1737638227
+        },
+        {
+            "type": "ask",
+            "price": 3.08866074,
+            "amount": 0.00038852,
+            "tid": 200946492,
+            "timestamp": 1737638227
+        },
+        {
+            "type": "ask",
+            "price": 3.08866075,
+            "amount": 0.00038852,
+            "tid": 200946491,
+            "timestamp": 1737638227
+        },
+        {
+            "type": "ask",
+            "price": 3.08866076,
+            "amount": 0.00038852,
+            "tid": 200946490,
+            "timestamp": 1737638227
+        },
+        {
+            "type": "ask",
+            "price": 3.08866076,
+            "amount": 0.00038852,
+            "tid": 200946489,
+            "timestamp": 1737638227
+        },
+        {
+            "type": "ask",
+            "price": 3.08866077,
+            "amount": 0.00038852,
+            "tid": 200946488,
+            "timestamp": 1737638227
+        },
+        {
+            "type": "ask",
+            "price": 3.08866078,
+            "amount": 0.00038852,
+            "tid": 200946487,
+            "timestamp": 1737638227
+        },
+        {
+            "type": "ask",
+            "price": 3.08866079,
+            "amount": 0.00038852,
+            "tid": 200946486,
+            "timestamp": 1737638227
+        },
+        {
+            "type": "ask",
+            "price": 3.0886608,
+            "amount": 0.00038852,
+            "tid": 200946485,
+            "timestamp": 1737638227
+        },
+        {
+            "type": "ask",
+            "price": 3.08866081,
+            "amount": 0.00038852,
+            "tid": 200946484,
+            "timestamp": 1737638227
+        },
+        {
+            "type": "ask",
+            "price": 3.08866082,
+            "amount": 0.00038852,
+            "tid": 200946483,
+            "timestamp": 1737638227
+        },
+        {
+            "type": "ask",
+            "price": 3.08866083,
+            "amount": 0.00038852,
+            "tid": 200946482,
+            "timestamp": 1737638227
+        },
+        {
+            "type": "ask",
+            "price": 3.08866083,
+            "amount": 0.00038852,
+            "tid": 200946481,
+            "timestamp": 1737638227
+        },
+        {
+            "type": "ask",
+            "price": 3.08866084,
+            "amount": 0.00038852,
+            "tid": 200946480,
+            "timestamp": 1737638227
+        },
+        {
+            "type": "ask",
+            "price": 3.08866085,
+            "amount": 0.00038852,
+            "tid": 200946479,
+            "timestamp": 1737638227
+        },
+        {
+            "type": "ask",
+            "price": 3.08866086,
+            "amount": 0.00038852,
+            "tid": 200946478,
+            "timestamp": 1737638227
+        },
+        {
+            "type": "ask",
+            "price": 3.08866087,
+            "amount": 0.00038852,
+            "tid": 200946477,
+            "timestamp": 1737638227
+        },
+        {
+            "type": "ask",
+            "price": 3.08866088,
+            "amount": 0.00038852,
+            "tid": 200946476,
+            "timestamp": 1737638227
+        },
+        {
+            "type": "ask",
+            "price": 3.08866089,
+            "amount": 0.00038852,
+            "tid": 200946475,
+            "timestamp": 1737638226
+        },
+        {
+            "type": "ask",
+            "price": 3.0886609,
+            "amount": 0.00038852,
+            "tid": 200946474,
+            "timestamp": 1737638226
+        },
+        {
+            "type": "ask",
+            "price": 3.08866091,
+            "amount": 0.00038852,
+            "tid": 200946473,
+            "timestamp": 1737638226
+        },
+        {
+            "type": "ask",
+            "price": 3.08866092,
+            "amount": 0.00038852,
+            "tid": 200946472,
+            "timestamp": 1737638226
+        },
+        {
+            "type": "ask",
+            "price": 3.08866093,
+            "amount": 0.00038852,
+            "tid": 200946471,
+            "timestamp": 1737638226
+        },
+        {
+            "type": "ask",
+            "price": 3.08866094,
+            "amount": 0.00038852,
+            "tid": 200946470,
+            "timestamp": 1737638226
+        },
+        {
+            "type": "ask",
+            "price": 3.08866095,
+            "amount": 0.00038852,
+            "tid": 200946469,
+            "timestamp": 1737638226
+        },
+        {
+            "type": "ask",
+            "price": 3.08866096,
+            "amount": 0.00038852,
+            "tid": 200946468,
+            "timestamp": 1737638226
+        },
+        {
+            "type": "ask",
+            "price": 3.08866097,
+            "amount": 0.00038852,
+            "tid": 200946467,
+            "timestamp": 1737638226
+        },
+        {
+            "type": "ask",
+            "price": 3.08866098,
+            "amount": 0.00038852,
+            "tid": 200946466,
+            "timestamp": 1737638226
+        },
+        {
+            "type": "ask",
+            "price": 3.08866099,
+            "amount": 0.00038852,
+            "tid": 200946465,
+            "timestamp": 1737638226
+        },
+        {
+            "type": "ask",
+            "price": 3.088661,
+            "amount": 0.00038852,
+            "tid": 200946464,
+            "timestamp": 1737638226
+        },
+        {
+            "type": "ask",
+            "price": 3.08866101,
+            "amount": 0.00038852,
+            "tid": 200946463,
+            "timestamp": 1737638226
+        },
+        {
+            "type": "ask",
+            "price": 3.08866101,
+            "amount": 0.00038852,
+            "tid": 200946462,
+            "timestamp": 1737638226
+        },
+        {
+            "type": "ask",
+            "price": 3.08866102,
+            "amount": 0.00038852,
+            "tid": 200946461,
+            "timestamp": 1737638225
+        },
+        {
+            "type": "ask",
+            "price": 3.08866103,
+            "amount": 0.00038852,
+            "tid": 200946460,
+            "timestamp": 1737638225
+        },
+        {
+            "type": "ask",
+            "price": 3.08866104,
+            "amount": 0.00038852,
+            "tid": 200946459,
+            "timestamp": 1737638225
+        },
+        {
+            "type": "ask",
+            "price": 3.08866105,
+            "amount": 0.00038852,
+            "tid": 200946458,
+            "timestamp": 1737638225
+        },
+        {
+            "type": "ask",
+            "price": 3.08866106,
+            "amount": 0.00038852,
+            "tid": 200946457,
+            "timestamp": 1737638225
+        },
+        {
+            "type": "ask",
+            "price": 3.08866107,
+            "amount": 0.00038852,
+            "tid": 200946456,
+            "timestamp": 1737638225
+        },
+        {
+            "type": "ask",
+            "price": 3.08866108,
+            "amount": 0.00038852,
+            "tid": 200946455,
+            "timestamp": 1737638225
+        },
+        {
+            "type": "ask",
+            "price": 3.08866109,
+            "amount": 0.00038852,
+            "tid": 200946454,
+            "timestamp": 1737638225
+        },
+        {
+            "type": "ask",
+            "price": 3.0886611,
+            "amount": 0.00038852,
+            "tid": 200946453,
+            "timestamp": 1737638225
+        },
+        {
+            "type": "ask",
+            "price": 3.08866111,
+            "amount": 0.00038852,
+            "tid": 200946452,
+            "timestamp": 1737638225
+        },
+        {
+            "type": "ask",
+            "price": 3.08866112,
+            "amount": 0.00038852,
+            "tid": 200946451,
+            "timestamp": 1737638225
+        },
+        {
+            "type": "ask",
+            "price": 3.08866113,
+            "amount": 0.00038852,
+            "tid": 200946450,
+            "timestamp": 1737638225
+        },
+        {
+            "type": "ask",
+            "price": 3.08866114,
+            "amount": 0.00038852,
+            "tid": 200946449,
+            "timestamp": 1737638225
+        },
+        {
+            "type": "ask",
+            "price": 3.08866114,
+            "amount": 0.00038852,
+            "tid": 200946448,
+            "timestamp": 1737638225
+        },
+        {
+            "type": "ask",
+            "price": 3.08866115,
+            "amount": 0.00038852,
+            "tid": 200946447,
+            "timestamp": 1737638225
+        },
+        {
+            "type": "ask",
+            "price": 3.08866116,
+            "amount": 0.00038852,
+            "tid": 200946446,
+            "timestamp": 1737638224
+        },
+        {
+            "type": "ask",
+            "price": 3.08866117,
+            "amount": 0.00038852,
+            "tid": 200946445,
+            "timestamp": 1737638224
+        },
+        {
+            "type": "ask",
+            "price": 3.08866117,
+            "amount": 0.00038852,
+            "tid": 200946444,
+            "timestamp": 1737638224
+        },
+        {
+            "type": "ask",
+            "price": 3.08866118,
+            "amount": 0.00038852,
+            "tid": 200946443,
+            "timestamp": 1737638224
+        },
+        {
+            "type": "ask",
+            "price": 3.08866119,
+            "amount": 0.00038852,
+            "tid": 200946442,
+            "timestamp": 1737638224
+        },
+        {
+            "type": "ask",
+            "price": 3.0886612,
+            "amount": 0.00038852,
+            "tid": 200946441,
+            "timestamp": 1737638224
+        },
+        {
+            "type": "ask",
+            "price": 3.08866121,
+            "amount": 0.00038852,
+            "tid": 200946440,
+            "timestamp": 1737638224
+        },
+        {
+            "type": "ask",
+            "price": 3.08866122,
+            "amount": 0.00038852,
+            "tid": 200946439,
+            "timestamp": 1737638224
+        },
+        {
+            "type": "ask",
+            "price": 3.08866123,
+            "amount": 0.00038852,
+            "tid": 200946438,
+            "timestamp": 1737638224
+        },
+        {
+            "type": "ask",
+            "price": 3.08866124,
+            "amount": 0.00038852,
+            "tid": 200946437,
+            "timestamp": 1737638223
+        },
+        {
+            "type": "ask",
+            "price": 3.09028484,
+            "amount": 0.00038831,
+            "tid": 200946436,
+            "timestamp": 1737638223
+        },
+        {
+            "type": "ask",
+            "price": 3.09028485,
+            "amount": 0.00038831,
+            "tid": 200946435,
+            "timestamp": 1737638223
+        },
+        {
+            "type": "ask",
+            "price": 3.09028486,
+            "amount": 0.00038831,
+            "tid": 200946434,
+            "timestamp": 1737638223
+        },
+        {
+            "type": "ask",
+            "price": 3.09028487,
+            "amount": 0.00038831,
+            "tid": 200946433,
+            "timestamp": 1737638223
+        },
+        {
+            "type": "ask",
+            "price": 3.09028488,
+            "amount": 0.00038831,
+            "tid": 200946432,
+            "timestamp": 1737638223
+        },
+        {
+            "type": "ask",
+            "price": 3.09028488,
+            "amount": 0.00038831,
+            "tid": 200946431,
+            "timestamp": 1737638223
+        },
+        {
+            "type": "ask",
+            "price": 3.09028489,
+            "amount": 0.00038831,
+            "tid": 200946430,
+            "timestamp": 1737638223
+        },
+        {
+            "type": "ask",
+            "price": 3.0902849,
+            "amount": 0.00038831,
+            "tid": 200946429,
+            "timestamp": 1737638223
+        },
+        {
+            "type": "ask",
+            "price": 3.0902849,
+            "amount": 0.00038831,
+            "tid": 200946428,
+            "timestamp": 1737638223
+        },
+        {
+            "type": "ask",
+            "price": 3.09028491,
+            "amount": 0.00038831,
+            "tid": 200946427,
+            "timestamp": 1737638223
+        },
+        {
+            "type": "ask",
+            "price": 3.09028492,
+            "amount": 0.00038831,
+            "tid": 200946426,
+            "timestamp": 1737638223
+        },
+        {
+            "type": "ask",
+            "price": 3.09028493,
+            "amount": 0.00038831,
+            "tid": 200946425,
+            "timestamp": 1737638223
+        },
+        {
+            "type": "ask",
+            "price": 3.09028494,
+            "amount": 0.00038831,
+            "tid": 200946424,
+            "timestamp": 1737638223
+        },
+        {
+            "type": "ask",
+            "price": 3.09028495,
+            "amount": 0.00038831,
+            "tid": 200946423,
+            "timestamp": 1737638222
+        },
+        {
+            "type": "ask",
+            "price": 3.09028496,
+            "amount": 0.00038831,
+            "tid": 200946422,
+            "timestamp": 1737638222
+        },
+        {
+            "type": "ask",
+            "price": 3.09028497,
+            "amount": 0.00038831,
+            "tid": 200946421,
+            "timestamp": 1737638222
+        },
+        {
+            "type": "ask",
+            "price": 3.09028498,
+            "amount": 0.00038831,
+            "tid": 200946420,
+            "timestamp": 1737638222
+        },
+        {
+            "type": "ask",
+            "price": 3.09028498,
+            "amount": 0.00038831,
+            "tid": 200946419,
+            "timestamp": 1737638222
+        },
+        {
+            "type": "ask",
+            "price": 3.09028499,
+            "amount": 0.00038831,
+            "tid": 200946418,
+            "timestamp": 1737638222
+        },
+        {
+            "type": "ask",
+            "price": 3.090285,
+            "amount": 0.00038831,
+            "tid": 200946417,
+            "timestamp": 1737638222
+        },
+        {
+            "type": "ask",
+            "price": 3.09028501,
+            "amount": 0.00038831,
+            "tid": 200946416,
+            "timestamp": 1737638222
+        },
+        {
+            "type": "ask",
+            "price": 3.09028502,
+            "amount": 0.00038831,
+            "tid": 200946415,
+            "timestamp": 1737638222
+        },
+        {
+            "type": "ask",
+            "price": 3.09028502,
+            "amount": 0.00038831,
+            "tid": 200946414,
+            "timestamp": 1737638222
+        },
+        {
+            "type": "ask",
+            "price": 3.09028503,
+            "amount": 0.00038831,
+            "tid": 200946413,
+            "timestamp": 1737638222
+        },
+        {
+            "type": "ask",
+            "price": 3.09028503,
+            "amount": 0.00038831,
+            "tid": 200946412,
+            "timestamp": 1737638222
+        },
+        {
+            "type": "ask",
+            "price": 3.09028504,
+            "amount": 0.00038831,
+            "tid": 200946411,
+            "timestamp": 1737638222
+        },
+        {
+            "type": "ask",
+            "price": 3.09028505,
+            "amount": 0.00038831,
+            "tid": 200946410,
+            "timestamp": 1737638221
+        },
+        {
+            "type": "ask",
+            "price": 3.09028506,
+            "amount": 0.00038831,
+            "tid": 200946409,
+            "timestamp": 1737638221
+        },
+        {
+            "type": "ask",
+            "price": 3.09028506,
+            "amount": 0.00038831,
+            "tid": 200946408,
+            "timestamp": 1737638221
+        },
+        {
+            "type": "ask",
+            "price": 3.09028507,
+            "amount": 0.00038831,
+            "tid": 200946407,
+            "timestamp": 1737638221
+        },
+        {
+            "type": "ask",
+            "price": 3.09028508,
+            "amount": 0.00038831,
+            "tid": 200946406,
+            "timestamp": 1737638221
+        },
+        {
+            "type": "ask",
+            "price": 3.09028508,
+            "amount": 0.00038831,
+            "tid": 200946405,
+            "timestamp": 1737638220
+        },
+        {
+            "type": "ask",
+            "price": 3.09028509,
+            "amount": 0.00038831,
+            "tid": 200946404,
+            "timestamp": 1737638220
+        },
+        {
+            "type": "ask",
+            "price": 3.0902851,
+            "amount": 0.00038831,
+            "tid": 200946403,
+            "timestamp": 1737638220
+        },
+        {
+            "type": "ask",
+            "price": 3.09028511,
+            "amount": 0.00038831,
+            "tid": 200946402,
+            "timestamp": 1737638219
+        },
+        {
+            "type": "ask",
+            "price": 3.09028512,
+            "amount": 0.00038831,
+            "tid": 200946401,
+            "timestamp": 1737638219
+        },
+        {
+            "type": "ask",
+            "price": 3.09028513,
+            "amount": 0.00038831,
+            "tid": 200946400,
+            "timestamp": 1737638219
+        },
+        {
+            "type": "ask",
+            "price": 3.09028513,
+            "amount": 0.00038831,
+            "tid": 200946399,
+            "timestamp": 1737638219
+        },
+        {
+            "type": "ask",
+            "price": 3.09028514,
+            "amount": 0.00038831,
+            "tid": 200946398,
+            "timestamp": 1737638219
+        },
+        {
+            "type": "ask",
+            "price": 3.09028515,
+            "amount": 0.00038831,
+            "tid": 200946397,
+            "timestamp": 1737638218
+        },
+        {
+            "type": "ask",
+            "price": 3.09028516,
+            "amount": 0.00038831,
+            "tid": 200946396,
+            "timestamp": 1737638218
+        },
+        {
+            "type": "ask",
+            "price": 3.09028517,
+            "amount": 0.00038831,
+            "tid": 200946395,
+            "timestamp": 1737638218
+        },
+        {
+            "type": "ask",
+            "price": 3.09028518,
+            "amount": 0.00038831,
+            "tid": 200946394,
+            "timestamp": 1737638218
+        },
+        {
+            "type": "ask",
+            "price": 3.09028519,
+            "amount": 0.00038831,
+            "tid": 200946393,
+            "timestamp": 1737638218
+        },
+        {
+            "type": "ask",
+            "price": 3.0902852,
+            "amount": 0.00038831,
+            "tid": 200946392,
+            "timestamp": 1737638218
+        },
+        {
+            "type": "ask",
+            "price": 3.09028521,
+            "amount": 0.00038831,
+            "tid": 200946391,
+            "timestamp": 1737638218
+        },
+        {
+            "type": "ask",
+            "price": 3.09028522,
+            "amount": 0.00038831,
+            "tid": 200946390,
+            "timestamp": 1737638218
+        },
+        {
+            "type": "ask",
+            "price": 3.09028523,
+            "amount": 0.00038831,
+            "tid": 200946389,
+            "timestamp": 1737638218
+        },
+        {
+            "type": "ask",
+            "price": 3.09028524,
+            "amount": 0.00038831,
+            "tid": 200946388,
+            "timestamp": 1737638218
+        },
+        {
+            "type": "ask",
+            "price": 3.09028525,
+            "amount": 0.00038831,
+            "tid": 200946387,
+            "timestamp": 1737638218
+        },
+        {
+            "type": "ask",
+            "price": 3.09028526,
+            "amount": 0.00038831,
+            "tid": 200946386,
+            "timestamp": 1737638218
+        },
+        {
+            "type": "ask",
+            "price": 3.09028527,
+            "amount": 0.00038831,
+            "tid": 200946385,
+            "timestamp": 1737638218
+        },
+        {
+            "type": "ask",
+            "price": 3.09028528,
+            "amount": 0.00038831,
+            "tid": 200946384,
+            "timestamp": 1737638217
+        },
+        {
+            "type": "ask",
+            "price": 3.09028529,
+            "amount": 0.00038831,
+            "tid": 200946383,
+            "timestamp": 1737638217
+        },
+        {
+            "type": "ask",
+            "price": 3.0902853,
+            "amount": 0.00038831,
+            "tid": 200946382,
+            "timestamp": 1737638217
+        },
+        {
+            "type": "ask",
+            "price": 3.09028531,
+            "amount": 0.00038831,
+            "tid": 200946381,
+            "timestamp": 1737638217
+        },
+        {
+            "type": "ask",
+            "price": 3.09028531,
+            "amount": 0.00038831,
+            "tid": 200946380,
+            "timestamp": 1737638217
+        },
+        {
+            "type": "ask",
+            "price": 3.09028532,
+            "amount": 0.00038831,
+            "tid": 200946379,
+            "timestamp": 1737638217
+        },
+        {
+            "type": "ask",
+            "price": 3.09028532,
+            "amount": 0.00038831,
+            "tid": 200946378,
+            "timestamp": 1737638217
+        },
+        {
+            "type": "ask",
+            "price": 3.09028533,
+            "amount": 0.00038831,
+            "tid": 200946377,
+            "timestamp": 1737638217
+        },
+        {
+            "type": "ask",
+            "price": 3.09028534,
+            "amount": 0.00038831,
+            "tid": 200946376,
+            "timestamp": 1737638217
+        },
+        {
+            "type": "ask",
+            "price": 3.09028535,
+            "amount": 0.00038831,
+            "tid": 200946375,
+            "timestamp": 1737638217
+        },
+        {
+            "type": "ask",
+            "price": 3.09028536,
+            "amount": 0.00038831,
+            "tid": 200946374,
+            "timestamp": 1737638217
+        },
+        {
+            "type": "ask",
+            "price": 3.09028537,
+            "amount": 0.00038831,
+            "tid": 200946373,
+            "timestamp": 1737638217
+        },
+        {
+            "type": "ask",
+            "price": 3.09028538,
+            "amount": 0.00038831,
+            "tid": 200946372,
+            "timestamp": 1737638217
+        },
+        {
+            "type": "ask",
+            "price": 3.09028539,
+            "amount": 0.00038831,
+            "tid": 200946371,
+            "timestamp": 1737638217
+        },
+        {
+            "type": "ask",
+            "price": 3.0902854,
+            "amount": 0.00038831,
+            "tid": 200946370,
+            "timestamp": 1737638217
+        },
+        {
+            "type": "ask",
+            "price": 3.09028541,
+            "amount": 0.00038831,
+            "tid": 200946369,
+            "timestamp": 1737638216
+        },
+        {
+            "type": "ask",
+            "price": 3.09028542,
+            "amount": 0.00038831,
+            "tid": 200946368,
+            "timestamp": 1737638216
+        },
+        {
+            "type": "ask",
+            "price": 3.09028543,
+            "amount": 0.00038831,
+            "tid": 200946367,
+            "timestamp": 1737638216
+        },
+        {
+            "type": "ask",
+            "price": 3.09028544,
+            "amount": 0.00038831,
+            "tid": 200946366,
+            "timestamp": 1737638216
+        },
+        {
+            "type": "ask",
+            "price": 3.09028544,
+            "amount": 0.00038831,
+            "tid": 200946365,
+            "timestamp": 1737638216
+        },
+        {
+            "type": "ask",
+            "price": 3.09028545,
+            "amount": 0.00038831,
+            "tid": 200946364,
+            "timestamp": 1737638216
+        },
+        {
+            "type": "ask",
+            "price": 3.09028546,
+            "amount": 0.00038831,
+            "tid": 200946363,
+            "timestamp": 1737638216
+        },
+        {
+            "type": "ask",
+            "price": 3.09028547,
+            "amount": 0.00038831,
+            "tid": 200946362,
+            "timestamp": 1737638216
+        },
+        {
+            "type": "ask",
+            "price": 3.09028548,
+            "amount": 0.00038831,
+            "tid": 200946361,
+            "timestamp": 1737638216
+        },
+        {
+            "type": "ask",
+            "price": 3.09028549,
+            "amount": 0.00038831,
+            "tid": 200946360,
+            "timestamp": 1737638216
+        },
+        {
+            "type": "ask",
+            "price": 3.0902855,
+            "amount": 0.00038831,
+            "tid": 200946359,
+            "timestamp": 1737638216
+        },
+        {
+            "type": "ask",
+            "price": 3.09028551,
+            "amount": 0.00038831,
+            "tid": 200946358,
+            "timestamp": 1737638216
+        },
+        {
+            "type": "ask",
+            "price": 3.09028551,
+            "amount": 0.00038831,
+            "tid": 200946357,
+            "timestamp": 1737638216
+        },
+        {
+            "type": "ask",
+            "price": 3.09028552,
+            "amount": 0.00038831,
+            "tid": 200946356,
+            "timestamp": 1737638216
+        },
+        {
+            "type": "ask",
+            "price": 3.09028553,
+            "amount": 0.00038831,
+            "tid": 200946355,
+            "timestamp": 1737638216
+        },
+        {
+            "type": "ask",
+            "price": 3.09028554,
+            "amount": 0.00038831,
+            "tid": 200946354,
+            "timestamp": 1737638216
+        },
+        {
+            "type": "ask",
+            "price": 3.09028555,
+            "amount": 0.00038831,
+            "tid": 200946353,
+            "timestamp": 1737638215
+        },
+        {
+            "type": "ask",
+            "price": 3.09028556,
+            "amount": 0.00038831,
+            "tid": 200946352,
+            "timestamp": 1737638215
+        },
+        {
+            "type": "ask",
+            "price": 3.09028557,
+            "amount": 0.00038831,
+            "tid": 200946351,
+            "timestamp": 1737638215
+        },
+        {
+            "type": "ask",
+            "price": 3.09028558,
+            "amount": 0.00038831,
+            "tid": 200946350,
+            "timestamp": 1737638215
+        },
+        {
+            "type": "ask",
+            "price": 3.09028559,
+            "amount": 0.00038831,
+            "tid": 200946349,
+            "timestamp": 1737638215
+        },
+        {
+            "type": "ask",
+            "price": 3.0902856,
+            "amount": 0.00038831,
+            "tid": 200946348,
+            "timestamp": 1737638215
+        },
+        {
+            "type": "ask",
+            "price": 3.09028561,
+            "amount": 0.00038831,
+            "tid": 200946347,
+            "timestamp": 1737638215
+        },
+        {
+            "type": "ask",
+            "price": 3.09028562,
+            "amount": 0.00038831,
+            "tid": 200946346,
+            "timestamp": 1737638215
+        },
+        {
+            "type": "ask",
+            "price": 3.09028563,
+            "amount": 0.00038831,
+            "tid": 200946345,
+            "timestamp": 1737638215
+        },
+        {
+            "type": "ask",
+            "price": 3.09028564,
+            "amount": 0.00038831,
+            "tid": 200946344,
+            "timestamp": 1737638215
+        },
+        {
+            "type": "ask",
+            "price": 3.09028565,
+            "amount": 0.00038831,
+            "tid": 200946343,
+            "timestamp": 1737638215
+        },
+        {
+            "type": "ask",
+            "price": 3.09028566,
+            "amount": 0.00038831,
+            "tid": 200946342,
+            "timestamp": 1737638215
+        },
+        {
+            "type": "ask",
+            "price": 3.09189307,
+            "amount": 0.00038811,
+            "tid": 200946341,
+            "timestamp": 1737638215
+        },
+        {
+            "type": "ask",
+            "price": 3.09189308,
+            "amount": 0.00038811,
+            "tid": 200946340,
+            "timestamp": 1737638215
+        },
+        {
+            "type": "ask",
+            "price": 3.09189309,
+            "amount": 0.00038811,
+            "tid": 200946339,
+            "timestamp": 1737638214
+        },
+        {
+            "type": "ask",
+            "price": 3.0918931,
+            "amount": 0.00038811,
+            "tid": 200946338,
+            "timestamp": 1737638214
+        },
+        {
+            "type": "ask",
+            "price": 3.09189311,
+            "amount": 0.00038811,
+            "tid": 200946337,
+            "timestamp": 1737638214
+        },
+        {
+            "type": "ask",
+            "price": 3.09189311,
+            "amount": 0.00038811,
+            "tid": 200946336,
+            "timestamp": 1737638214
+        },
+        {
+            "type": "ask",
+            "price": 3.09189312,
+            "amount": 0.00038811,
+            "tid": 200946335,
+            "timestamp": 1737638214
+        },
+        {
+            "type": "ask",
+            "price": 3.09189313,
+            "amount": 0.00038811,
+            "tid": 200946334,
+            "timestamp": 1737638214
+        },
+        {
+            "type": "ask",
+            "price": 3.09189314,
+            "amount": 0.00038811,
+            "tid": 200946333,
+            "timestamp": 1737638214
+        },
+        {
+            "type": "ask",
+            "price": 3.09189315,
+            "amount": 0.00038811,
+            "tid": 200946332,
+            "timestamp": 1737638214
+        },
+        {
+            "type": "ask",
+            "price": 3.09189316,
+            "amount": 0.00038811,
+            "tid": 200946331,
+            "timestamp": 1737638214
+        },
+        {
+            "type": "ask",
+            "price": 3.09189317,
+            "amount": 0.00038811,
+            "tid": 200946330,
+            "timestamp": 1737638214
+        },
+        {
+            "type": "ask",
+            "price": 3.09189318,
+            "amount": 0.00038811,
+            "tid": 200946329,
+            "timestamp": 1737638214
+        },
+        {
+            "type": "ask",
+            "price": 3.09189319,
+            "amount": 0.00038811,
+            "tid": 200946328,
+            "timestamp": 1737638214
+        },
+        {
+            "type": "ask",
+            "price": 3.0918932,
+            "amount": 0.00038811,
+            "tid": 200946327,
+            "timestamp": 1737638214
+        },
+        {
+            "type": "ask",
+            "price": 3.09189321,
+            "amount": 0.00038811,
+            "tid": 200946326,
+            "timestamp": 1737638214
+        },
+        {
+            "type": "ask",
+            "price": 3.09189322,
+            "amount": 0.00038811,
+            "tid": 200946325,
+            "timestamp": 1737638213
+        },
+        {
+            "type": "ask",
+            "price": 3.09189323,
+            "amount": 0.00038811,
+            "tid": 200946324,
+            "timestamp": 1737638213
+        },
+        {
+            "type": "ask",
+            "price": 3.09189324,
+            "amount": 0.00038811,
+            "tid": 200946323,
+            "timestamp": 1737638213
+        },
+        {
+            "type": "ask",
+            "price": 3.09189325,
+            "amount": 0.00038811,
+            "tid": 200946322,
+            "timestamp": 1737638213
+        },
+        {
+            "type": "ask",
+            "price": 3.09189326,
+            "amount": 0.00038811,
+            "tid": 200946321,
+            "timestamp": 1737638213
+        },
+        {
+            "type": "ask",
+            "price": 3.09189327,
+            "amount": 0.00038811,
+            "tid": 200946320,
+            "timestamp": 1737638213
+        },
+        {
+            "type": "ask",
+            "price": 3.09189328,
+            "amount": 0.00038811,
+            "tid": 200946319,
+            "timestamp": 1737638213
+        },
+        {
+            "type": "ask",
+            "price": 3.09189329,
+            "amount": 0.00038811,
+            "tid": 200946318,
+            "timestamp": 1737638213
+        },
+        {
+            "type": "ask",
+            "price": 3.0918933,
+            "amount": 0.00038811,
+            "tid": 200946317,
+            "timestamp": 1737638213
+        },
+        {
+            "type": "ask",
+            "price": 3.09189331,
+            "amount": 0.00038811,
+            "tid": 200946316,
+            "timestamp": 1737638213
+        },
+        {
+            "type": "ask",
+            "price": 3.09189332,
+            "amount": 0.00038811,
+            "tid": 200946315,
+            "timestamp": 1737638213
+        },
+        {
+            "type": "ask",
+            "price": 3.09189333,
+            "amount": 0.00038811,
+            "tid": 200946314,
+            "timestamp": 1737638213
+        },
+        {
+            "type": "ask",
+            "price": 3.09189334,
+            "amount": 0.00038811,
+            "tid": 200946313,
+            "timestamp": 1737638213
+        },
+        {
+            "type": "ask",
+            "price": 3.09189335,
+            "amount": 0.00038811,
+            "tid": 200946312,
+            "timestamp": 1737638213
+        },
+        {
+            "type": "ask",
+            "price": 3.09189336,
+            "amount": 0.00038811,
+            "tid": 200946311,
+            "timestamp": 1737638213
+        },
+        {
+            "type": "ask",
+            "price": 3.09189337,
+            "amount": 0.00038811,
+            "tid": 200946310,
+            "timestamp": 1737638212
+        },
+        {
+            "type": "ask",
+            "price": 3.09189338,
+            "amount": 0.00038811,
+            "tid": 200946309,
+            "timestamp": 1737638212
+        },
+        {
+            "type": "ask",
+            "price": 3.09189339,
+            "amount": 0.00038811,
+            "tid": 200946308,
+            "timestamp": 1737638212
+        },
+        {
+            "type": "ask",
+            "price": 3.0918934,
+            "amount": 0.00038811,
+            "tid": 200946307,
+            "timestamp": 1737638212
+        },
+        {
+            "type": "ask",
+            "price": 3.09189341,
+            "amount": 0.00038811,
+            "tid": 200946306,
+            "timestamp": 1737638212
+        },
+        {
+            "type": "ask",
+            "price": 3.09189342,
+            "amount": 0.00038811,
+            "tid": 200946305,
+            "timestamp": 1737638212
+        },
+        {
+            "type": "ask",
+            "price": 3.09189343,
+            "amount": 0.00038811,
+            "tid": 200946304,
+            "timestamp": 1737638212
+        },
+        {
+            "type": "ask",
+            "price": 3.09189344,
+            "amount": 0.00038811,
+            "tid": 200946303,
+            "timestamp": 1737638212
+        },
+        {
+            "type": "ask",
+            "price": 3.09189345,
+            "amount": 0.00038811,
+            "tid": 200946302,
+            "timestamp": 1737638212
+        },
+        {
+            "type": "ask",
+            "price": 3.09189346,
+            "amount": 0.00038811,
+            "tid": 200946301,
+            "timestamp": 1737638212
+        },
+        {
+            "type": "ask",
+            "price": 3.09189347,
+            "amount": 0.00038811,
+            "tid": 200946300,
+            "timestamp": 1737638212
+        },
+        {
+            "type": "ask",
+            "price": 3.09189348,
+            "amount": 0.00038811,
+            "tid": 200946299,
+            "timestamp": 1737638211
+        },
+        {
+            "type": "ask",
+            "price": 3.09189349,
+            "amount": 0.00038811,
+            "tid": 200946298,
+            "timestamp": 1737638211
+        },
+        {
+            "type": "ask",
+            "price": 3.0918935,
+            "amount": 0.00038811,
+            "tid": 200946297,
+            "timestamp": 1737638211
+        },
+        {
+            "type": "ask",
+            "price": 3.09189351,
+            "amount": 0.00038811,
+            "tid": 200946296,
+            "timestamp": 1737638211
+        },
+        {
+            "type": "ask",
+            "price": 3.09189352,
+            "amount": 0.00038811,
+            "tid": 200946295,
+            "timestamp": 1737638211
+        },
+        {
+            "type": "ask",
+            "price": 3.09189353,
+            "amount": 0.00038811,
+            "tid": 200946294,
+            "timestamp": 1737638211
+        },
+        {
+            "type": "ask",
+            "price": 3.09189354,
+            "amount": 0.00038811,
+            "tid": 200946293,
+            "timestamp": 1737638211
+        },
+        {
+            "type": "ask",
+            "price": 3.09189355,
+            "amount": 0.00038811,
+            "tid": 200946292,
+            "timestamp": 1737638211
+        },
+        {
+            "type": "ask",
+            "price": 3.09189356,
+            "amount": 0.00038811,
+            "tid": 200946291,
+            "timestamp": 1737638211
+        },
+        {
+            "type": "ask",
+            "price": 3.09189357,
+            "amount": 0.00038811,
+            "tid": 200946290,
+            "timestamp": 1737638211
+        },
+        {
+            "type": "ask",
+            "price": 3.09189358,
+            "amount": 0.00038811,
+            "tid": 200946289,
+            "timestamp": 1737638211
+        },
+        {
+            "type": "ask",
+            "price": 3.09189359,
+            "amount": 0.00038811,
+            "tid": 200946288,
+            "timestamp": 1737638211
+        },
+        {
+            "type": "ask",
+            "price": 3.09189359,
+            "amount": 0.00038811,
+            "tid": 200946287,
+            "timestamp": 1737638210
+        },
+        {
+            "type": "ask",
+            "price": 3.0918936,
+            "amount": 0.00038811,
+            "tid": 200946286,
+            "timestamp": 1737638210
+        },
+        {
+            "type": "ask",
+            "price": 3.09189361,
+            "amount": 0.00038811,
+            "tid": 200946285,
+            "timestamp": 1737638210
+        },
+        {
+            "type": "ask",
+            "price": 3.09189363,
+            "amount": 0.00038811,
+            "tid": 200946284,
+            "timestamp": 1737638210
+        },
+        {
+            "type": "ask",
+            "price": 3.09189364,
+            "amount": 0.00038811,
+            "tid": 200946283,
+            "timestamp": 1737638210
+        },
+        {
+            "type": "ask",
+            "price": 3.09189365,
+            "amount": 0.00038811,
+            "tid": 200946282,
+            "timestamp": 1737638210
+        },
+        {
+            "type": "ask",
+            "price": 3.09189365,
+            "amount": 0.00038811,
+            "tid": 200946281,
+            "timestamp": 1737638210
+        },
+        {
+            "type": "ask",
+            "price": 3.09189366,
+            "amount": 0.00038811,
+            "tid": 200946280,
+            "timestamp": 1737638210
+        },
+        {
+            "type": "ask",
+            "price": 3.09189366,
+            "amount": 0.00038811,
+            "tid": 200946279,
+            "timestamp": 1737638210
+        },
+        {
+            "type": "ask",
+            "price": 3.09189367,
+            "amount": 0.00038811,
+            "tid": 200946278,
+            "timestamp": 1737638210
+        },
+        {
+            "type": "ask",
+            "price": 3.09189368,
+            "amount": 0.00038811,
+            "tid": 200946277,
+            "timestamp": 1737638210
+        },
+        {
+            "type": "ask",
+            "price": 3.09189369,
+            "amount": 0.00038811,
+            "tid": 200946276,
+            "timestamp": 1737638210
+        },
+        {
+            "type": "ask",
+            "price": 3.0918937,
+            "amount": 0.00038811,
+            "tid": 200946275,
+            "timestamp": 1737638210
+        },
+        {
+            "type": "ask",
+            "price": 3.09189371,
+            "amount": 0.00038811,
+            "tid": 200946274,
+            "timestamp": 1737638209
+        },
+        {
+            "type": "ask",
+            "price": 3.09189371,
+            "amount": 0.00038811,
+            "tid": 200946273,
+            "timestamp": 1737638209
+        },
+        {
+            "type": "ask",
+            "price": 3.09189372,
+            "amount": 0.00038811,
+            "tid": 200946272,
+            "timestamp": 1737638209
+        },
+        {
+            "type": "ask",
+            "price": 3.09189373,
+            "amount": 0.00038811,
+            "tid": 200946271,
+            "timestamp": 1737638209
+        },
+        {
+            "type": "ask",
+            "price": 3.09189374,
+            "amount": 0.00038811,
+            "tid": 200946270,
+            "timestamp": 1737638209
+        },
+        {
+            "type": "ask",
+            "price": 3.09189374,
+            "amount": 0.00038811,
+            "tid": 200946269,
+            "timestamp": 1737638209
+        },
+        {
+            "type": "ask",
+            "price": 3.09189375,
+            "amount": 0.00038811,
+            "tid": 200946268,
+            "timestamp": 1737638209
+        },
+        {
+            "type": "ask",
+            "price": 3.09189376,
+            "amount": 0.00038811,
+            "tid": 200946267,
+            "timestamp": 1737638209
+        },
+        {
+            "type": "ask",
+            "price": 3.09189377,
+            "amount": 0.00038811,
+            "tid": 200946266,
+            "timestamp": 1737638209
+        },
+        {
+            "type": "ask",
+            "price": 3.09189378,
+            "amount": 0.00038811,
+            "tid": 200946265,
+            "timestamp": 1737638209
+        },
+        {
+            "type": "ask",
+            "price": 3.09189379,
+            "amount": 0.00038811,
+            "tid": 200946264,
+            "timestamp": 1737638209
+        },
+        {
+            "type": "ask",
+            "price": 3.0918938,
+            "amount": 0.00038811,
+            "tid": 200946263,
+            "timestamp": 1737638209
+        },
+        {
+            "type": "ask",
+            "price": 3.09189381,
+            "amount": 0.00038811,
+            "tid": 200946262,
+            "timestamp": 1737638209
+        },
+        {
+            "type": "ask",
+            "price": 3.09189382,
+            "amount": 0.00038811,
+            "tid": 200946261,
+            "timestamp": 1737638209
+        },
+        {
+            "type": "ask",
+            "price": 3.09189383,
+            "amount": 0.00038811,
+            "tid": 200946260,
+            "timestamp": 1737638208
+        },
+        {
+            "type": "ask",
+            "price": 3.09189383,
+            "amount": 0.00038811,
+            "tid": 200946259,
+            "timestamp": 1737638208
+        },
+        {
+            "type": "ask",
+            "price": 3.09189384,
+            "amount": 0.00038811,
+            "tid": 200946258,
+            "timestamp": 1737638208
+        },
+        {
+            "type": "ask",
+            "price": 3.09189385,
+            "amount": 0.00038811,
+            "tid": 200946257,
+            "timestamp": 1737638208
+        },
+        {
+            "type": "ask",
+            "price": 3.09189386,
+            "amount": 0.00038811,
+            "tid": 200946256,
+            "timestamp": 1737638208
+        },
+        {
+            "type": "ask",
+            "price": 3.09189387,
+            "amount": 0.00038811,
+            "tid": 200946255,
+            "timestamp": 1737638208
+        },
+        {
+            "type": "ask",
+            "price": 3.09189388,
+            "amount": 0.00038811,
+            "tid": 200946254,
+            "timestamp": 1737638208
+        },
+        {
+            "type": "ask",
+            "price": 3.09189389,
+            "amount": 0.00038811,
+            "tid": 200946253,
+            "timestamp": 1737638208
+        },
+        {
+            "type": "ask",
+            "price": 3.0918939,
+            "amount": 0.00038811,
+            "tid": 200946252,
+            "timestamp": 1737638208
+        },
+        {
+            "type": "ask",
+            "price": 3.09189391,
+            "amount": 0.00038811,
+            "tid": 200946251,
+            "timestamp": 1737638208
+        },
+        {
+            "type": "ask",
+            "price": 3.09189392,
+            "amount": 0.00038811,
+            "tid": 200946250,
+            "timestamp": 1737638208
+        },
+        {
+            "type": "ask",
+            "price": 3.09189393,
+            "amount": 0.00038811,
+            "tid": 200946249,
+            "timestamp": 1737638208
+        },
+        {
+            "type": "ask",
+            "price": 3.09189394,
+            "amount": 0.00038811,
+            "tid": 200946248,
+            "timestamp": 1737638208
+        },
+        {
+            "type": "ask",
+            "price": 3.09189394,
+            "amount": 0.00038811,
+            "tid": 200946247,
+            "timestamp": 1737638207
+        },
+        {
+            "type": "ask",
+            "price": 3.09189395,
+            "amount": 0.00038811,
+            "tid": 200946246,
+            "timestamp": 1737638207
+        },
+        {
+            "type": "ask",
+            "price": 3.09189396,
+            "amount": 0.00038811,
+            "tid": 200946245,
+            "timestamp": 1737638207
+        },
+        {
+            "type": "ask",
+            "price": 3.09189396,
+            "amount": 0.00038811,
+            "tid": 200946244,
+            "timestamp": 1737638207
+        },
+        {
+            "type": "ask",
+            "price": 3.09189397,
+            "amount": 0.00038811,
+            "tid": 200946243,
+            "timestamp": 1737638207
+        },
+        {
+            "type": "ask",
+            "price": 3.09189398,
+            "amount": 0.00038811,
+            "tid": 200946242,
+            "timestamp": 1737638207
+        },
+        {
+            "type": "ask",
+            "price": 3.09189399,
+            "amount": 0.00038811,
+            "tid": 200946241,
+            "timestamp": 1737638207
+        },
+        {
+            "type": "ask",
+            "price": 3.09969303,
+            "amount": 0.00038714,
+            "tid": 200946240,
+            "timestamp": 1737638207
+        },
+        {
+            "type": "ask",
+            "price": 3.09969304,
+            "amount": 0.00038714,
+            "tid": 200946239,
+            "timestamp": 1737638207
+        },
+        {
+            "type": "ask",
+            "price": 3.09969305,
+            "amount": 0.00038714,
+            "tid": 200946238,
+            "timestamp": 1737638207
+        },
+        {
+            "type": "ask",
+            "price": 3.09969306,
+            "amount": 0.00038714,
+            "tid": 200946237,
+            "timestamp": 1737638207
+        },
+        {
+            "type": "ask",
+            "price": 3.09969306,
+            "amount": 0.00038714,
+            "tid": 200946236,
+            "timestamp": 1737638207
+        },
+        {
+            "type": "ask",
+            "price": 3.09969307,
+            "amount": 0.00038714,
+            "tid": 200946235,
+            "timestamp": 1737638207
+        },
+        {
+            "type": "ask",
+            "price": 3.09969307,
+            "amount": 0.00038714,
+            "tid": 200946234,
+            "timestamp": 1737638207
+        },
+        {
+            "type": "ask",
+            "price": 3.09969308,
+            "amount": 0.00038714,
+            "tid": 200946233,
+            "timestamp": 1737638206
+        },
+        {
+            "type": "ask",
+            "price": 3.09969309,
+            "amount": 0.00038714,
+            "tid": 200946232,
+            "timestamp": 1737638206
+        },
+        {
+            "type": "ask",
+            "price": 3.09969309,
+            "amount": 0.00038714,
+            "tid": 200946231,
+            "timestamp": 1737638206
+        },
+        {
+            "type": "ask",
+            "price": 3.0996931,
+            "amount": 0.00038714,
+            "tid": 200946230,
+            "timestamp": 1737638206
+        },
+        {
+            "type": "ask",
+            "price": 3.09969311,
+            "amount": 0.00038714,
+            "tid": 200946229,
+            "timestamp": 1737638206
+        },
+        {
+            "type": "ask",
+            "price": 3.09969311,
+            "amount": 0.00038714,
+            "tid": 200946228,
+            "timestamp": 1737638206
+        },
+        {
+            "type": "ask",
+            "price": 3.09969312,
+            "amount": 0.00038714,
+            "tid": 200946227,
+            "timestamp": 1737638206
+        },
+        {
+            "type": "ask",
+            "price": 3.09969312,
+            "amount": 0.00038714,
+            "tid": 200946226,
+            "timestamp": 1737638206
+        },
+        {
+            "type": "ask",
+            "price": 3.09969313,
+            "amount": 0.00038714,
+            "tid": 200946225,
+            "timestamp": 1737638206
+        },
+        {
+            "type": "ask",
+            "price": 3.09969314,
+            "amount": 0.00038714,
+            "tid": 200946224,
+            "timestamp": 1737638206
+        },
+        {
+            "type": "ask",
+            "price": 3.09969315,
+            "amount": 0.00038714,
+            "tid": 200946223,
+            "timestamp": 1737638206
+        },
+        {
+            "type": "ask",
+            "price": 3.09969315,
+            "amount": 0.00038714,
+            "tid": 200946222,
+            "timestamp": 1737638206
+        },
+        {
+            "type": "ask",
+            "price": 3.09969315,
+            "amount": 0.00038714,
+            "tid": 200946221,
+            "timestamp": 1737638206
+        },
+        {
+            "type": "ask",
+            "price": 3.09969316,
+            "amount": 0.00038714,
+            "tid": 200946220,
+            "timestamp": 1737638206
+        },
+        {
+            "type": "ask",
+            "price": 3.09969316,
+            "amount": 0.00038714,
+            "tid": 200946219,
+            "timestamp": 1737638205
+        },
+        {
+            "type": "ask",
+            "price": 3.09969316,
+            "amount": 0.00038714,
+            "tid": 200946218,
+            "timestamp": 1737638205
+        },
+        {
+            "type": "ask",
+            "price": 3.09969317,
+            "amount": 0.00038714,
+            "tid": 200946217,
+            "timestamp": 1737638205
+        },
+        {
+            "type": "ask",
+            "price": 3.09969317,
+            "amount": 0.00038714,
+            "tid": 200946216,
+            "timestamp": 1737638205
+        },
+        {
+            "type": "ask",
+            "price": 3.09969318,
+            "amount": 0.00038714,
+            "tid": 200946215,
+            "timestamp": 1737638205
+        },
+        {
+            "type": "ask",
+            "price": 3.09969319,
+            "amount": 0.00038714,
+            "tid": 200946214,
+            "timestamp": 1737634660
+        },
+        {
+            "type": "ask",
+            "price": 3.0996932,
+            "amount": 0.00038714,
+            "tid": 200946213,
+            "timestamp": 1737634660
+        },
+        {
+            "type": "ask",
+            "price": 3.09969321,
+            "amount": 0.00038714,
+            "tid": 200946212,
+            "timestamp": 1737634660
+        },
+        {
+            "type": "ask",
+            "price": 3.09969322,
+            "amount": 0.00038714,
+            "tid": 200946211,
+            "timestamp": 1737634660
+        },
+        {
+            "type": "ask",
+            "price": 3.09969322,
+            "amount": 0.00038714,
+            "tid": 200946210,
+            "timestamp": 1737634659
+        },
+        {
+            "type": "ask",
+            "price": 3.09969323,
+            "amount": 0.00038714,
+            "tid": 200946209,
+            "timestamp": 1737634659
+        },
+        {
+            "type": "ask",
+            "price": 3.09969323,
+            "amount": 0.00038714,
+            "tid": 200946208,
+            "timestamp": 1737634659
+        },
+        {
+            "type": "ask",
+            "price": 3.09969324,
+            "amount": 0.00038714,
+            "tid": 200946207,
+            "timestamp": 1737634659
+        },
+        {
+            "type": "ask",
+            "price": 3.09969325,
+            "amount": 0.00038714,
+            "tid": 200946206,
+            "timestamp": 1737634659
+        },
+        {
+            "type": "ask",
+            "price": 3.09969326,
+            "amount": 0.00038714,
+            "tid": 200946205,
+            "timestamp": 1737634659
+        },
+        {
+            "type": "ask",
+            "price": 3.09969326,
+            "amount": 0.00038714,
+            "tid": 200946204,
+            "timestamp": 1737634659
+        },
+        {
+            "type": "ask",
+            "price": 3.09969327,
+            "amount": 0.00038714,
+            "tid": 200946203,
+            "timestamp": 1737634659
+        },
+        {
+            "type": "ask",
+            "price": 3.09969328,
+            "amount": 0.00038714,
+            "tid": 200946202,
+            "timestamp": 1737634659
+        },
+        {
+            "type": "ask",
+            "price": 3.09969329,
+            "amount": 0.00038714,
+            "tid": 200946201,
+            "timestamp": 1737634659
+        },
+        {
+            "type": "ask",
+            "price": 3.0996933,
+            "amount": 0.00038714,
+            "tid": 200946200,
+            "timestamp": 1737634658
+        },
+        {
+            "type": "ask",
+            "price": 3.09969331,
+            "amount": 0.00038714,
+            "tid": 200946199,
+            "timestamp": 1737634658
+        },
+        {
+            "type": "ask",
+            "price": 3.09969332,
+            "amount": 0.00038714,
+            "tid": 200946198,
+            "timestamp": 1737634658
+        },
+        {
+            "type": "ask",
+            "price": 3.09969332,
+            "amount": 0.00038714,
+            "tid": 200946197,
+            "timestamp": 1737634658
+        },
+        {
+            "type": "ask",
+            "price": 3.09969333,
+            "amount": 0.00038714,
+            "tid": 200946196,
+            "timestamp": 1737634657
+        },
+        {
+            "type": "ask",
+            "price": 3.09969334,
+            "amount": 0.00038714,
+            "tid": 200946195,
+            "timestamp": 1737634657
+        },
+        {
+            "type": "ask",
+            "price": 3.09969334,
+            "amount": 0.00038714,
+            "tid": 200946194,
+            "timestamp": 1737634657
+        },
+        {
+            "type": "ask",
+            "price": 3.09969335,
+            "amount": 0.00038714,
+            "tid": 200946193,
+            "timestamp": 1737634657
+        },
+        {
+            "type": "ask",
+            "price": 3.09969336,
+            "amount": 0.00038714,
+            "tid": 200946192,
+            "timestamp": 1737634657
+        },
+        {
+            "type": "ask",
+            "price": 3.09969337,
+            "amount": 0.00038714,
+            "tid": 200946191,
+            "timestamp": 1737634657
+        },
+        {
+            "type": "ask",
+            "price": 3.09969338,
+            "amount": 0.00038714,
+            "tid": 200946190,
+            "timestamp": 1737634657
+        },
+        {
+            "type": "ask",
+            "price": 3.09969339,
+            "amount": 0.00038714,
+            "tid": 200946189,
+            "timestamp": 1737634657
+        },
+        {
+            "type": "ask",
+            "price": 3.0996934,
+            "amount": 0.00038714,
+            "tid": 200946188,
+            "timestamp": 1737634657
+        },
+        {
+            "type": "ask",
+            "price": 3.09969341,
+            "amount": 0.00038714,
+            "tid": 200946187,
+            "timestamp": 1737634657
+        },
+        {
+            "type": "ask",
+            "price": 3.09969341,
+            "amount": 0.00038714,
+            "tid": 200946186,
+            "timestamp": 1737634657
+        },
+        {
+            "type": "ask",
+            "price": 3.09969342,
+            "amount": 0.00038714,
+            "tid": 200946185,
+            "timestamp": 1737634657
+        },
+        {
+            "type": "ask",
+            "price": 3.09969343,
+            "amount": 0.00038714,
+            "tid": 200946184,
+            "timestamp": 1737634657
+        },
+        {
+            "type": "ask",
+            "price": 3.09969343,
+            "amount": 0.00038714,
+            "tid": 200946183,
+            "timestamp": 1737634655
+        },
+        {
+            "type": "ask",
+            "price": 3.09969343,
+            "amount": 0.00038714,
+            "tid": 200946182,
+            "timestamp": 1737634655
+        },
+        {
+            "type": "ask",
+            "price": 3.09969344,
+            "amount": 0.00038714,
+            "tid": 200946181,
+            "timestamp": 1737634655
+        },
+        {
+            "type": "ask",
+            "price": 3.09969345,
+            "amount": 0.00038714,
+            "tid": 200946180,
+            "timestamp": 1737634655
+        },
+        {
+            "type": "ask",
+            "price": 3.09969346,
+            "amount": 0.00038714,
+            "tid": 200946179,
+            "timestamp": 1737634655
+        },
+        {
+            "type": "ask",
+            "price": 3.09969346,
+            "amount": 0.00038714,
+            "tid": 200946178,
+            "timestamp": 1737634655
+        },
+        {
+            "type": "ask",
+            "price": 3.09969347,
+            "amount": 0.00038714,
+            "tid": 200946177,
+            "timestamp": 1737634655
+        },
+        {
+            "type": "ask",
+            "price": 3.09969347,
+            "amount": 0.00038714,
+            "tid": 200946176,
+            "timestamp": 1737634655
+        },
+        {
+            "type": "ask",
+            "price": 3.09969348,
+            "amount": 0.00038714,
+            "tid": 200946175,
+            "timestamp": 1737634655
+        },
+        {
+            "type": "ask",
+            "price": 3.09969349,
+            "amount": 0.00038714,
+            "tid": 200946174,
+            "timestamp": 1737634655
+        },
+        {
+            "type": "ask",
+            "price": 3.0996935,
+            "amount": 0.00038714,
+            "tid": 200946173,
+            "timestamp": 1737634655
+        },
+        {
+            "type": "ask",
+            "price": 3.09969351,
+            "amount": 0.00038714,
+            "tid": 200946172,
+            "timestamp": 1737634655
+        },
+        {
+            "type": "ask",
+            "price": 3.09969352,
+            "amount": 0.00038714,
+            "tid": 200946171,
+            "timestamp": 1737634655
+        },
+        {
+            "type": "ask",
+            "price": 3.09969353,
+            "amount": 0.00038714,
+            "tid": 200946170,
+            "timestamp": 1737634654
+        },
+        {
+            "type": "ask",
+            "price": 3.09969354,
+            "amount": 0.00038714,
+            "tid": 200946169,
+            "timestamp": 1737634654
+        },
+        {
+            "type": "ask",
+            "price": 3.09969355,
+            "amount": 0.00038714,
+            "tid": 200946168,
+            "timestamp": 1737634654
+        },
+        {
+            "type": "ask",
+            "price": 3.09969355,
+            "amount": 0.00038714,
+            "tid": 200946167,
+            "timestamp": 1737634654
+        },
+        {
+            "type": "ask",
+            "price": 3.09969356,
+            "amount": 0.00038714,
+            "tid": 200946166,
+            "timestamp": 1737634653
+        },
+        {
+            "type": "ask",
+            "price": 3.09969356,
+            "amount": 0.00038714,
+            "tid": 200946165,
+            "timestamp": 1737634653
+        },
+        {
+            "type": "ask",
+            "price": 3.09969357,
+            "amount": 0.00038714,
+            "tid": 200946164,
+            "timestamp": 1737634653
+        },
+        {
+            "type": "ask",
+            "price": 3.09969358,
+            "amount": 0.00038714,
+            "tid": 200946163,
+            "timestamp": 1737634653
+        },
+        {
+            "type": "ask",
+            "price": 3.09969359,
+            "amount": 0.00038714,
+            "tid": 200946162,
+            "timestamp": 1737634653
+        },
+        {
+            "type": "ask",
+            "price": 3.0996936,
+            "amount": 0.00038714,
+            "tid": 200946161,
+            "timestamp": 1737634653
+        },
+        {
+            "type": "ask",
+            "price": 3.09969361,
+            "amount": 0.00038714,
+            "tid": 200946160,
+            "timestamp": 1737634653
+        },
+        {
+            "type": "ask",
+            "price": 3.09969362,
+            "amount": 0.00038714,
+            "tid": 200946159,
+            "timestamp": 1737634653
+        },
+        {
+            "type": "ask",
+            "price": 3.09969363,
+            "amount": 0.00038714,
+            "tid": 200946158,
+            "timestamp": 1737634653
+        },
+        {
+            "type": "ask",
+            "price": 3.09969363,
+            "amount": 0.00038714,
+            "tid": 200946157,
+            "timestamp": 1737634653
+        },
+        {
+            "type": "ask",
+            "price": 3.09969364,
+            "amount": 0.00038714,
+            "tid": 200946156,
+            "timestamp": 1737634653
+        },
+        {
+            "type": "ask",
+            "price": 3.09969365,
+            "amount": 0.00038714,
+            "tid": 200946155,
+            "timestamp": 1737634653
+        },
+        {
+            "type": "ask",
+            "price": 3.09969366,
+            "amount": 0.00038714,
+            "tid": 200946154,
+            "timestamp": 1737634653
+        },
+        {
+            "type": "ask",
+            "price": 3.09969367,
+            "amount": 0.00038714,
+            "tid": 200946153,
+            "timestamp": 1737634653
+        },
+        {
+            "type": "ask",
+            "price": 3.09969368,
+            "amount": 0.00038714,
+            "tid": 200946152,
+            "timestamp": 1737634653
+        },
+        {
+            "type": "ask",
+            "price": 3.09969369,
+            "amount": 0.00038714,
+            "tid": 200946151,
+            "timestamp": 1737634653
+        },
+        {
+            "type": "ask",
+            "price": 3.0996937,
+            "amount": 0.00038714,
+            "tid": 200946150,
+            "timestamp": 1737634653
+        },
+        {
+            "type": "ask",
+            "price": 3.09969371,
+            "amount": 0.00038714,
+            "tid": 200946149,
+            "timestamp": 1737634653
+        },
+        {
+            "type": "ask",
+            "price": 3.09969372,
+            "amount": 0.00038714,
+            "tid": 200946148,
+            "timestamp": 1737634653
+        },
+        {
+            "type": "ask",
+            "price": 3.09969372,
+            "amount": 0.00038714,
+            "tid": 200946147,
+            "timestamp": 1737634652
+        },
+        {
+            "type": "ask",
+            "price": 3.09969373,
+            "amount": 0.00038714,
+            "tid": 200946146,
+            "timestamp": 1737634652
+        },
+        {
+            "type": "ask",
+            "price": 3.09969373,
+            "amount": 0.00038714,
+            "tid": 200946145,
+            "timestamp": 1737634652
+        },
+        {
+            "type": "ask",
+            "price": 3.09969374,
+            "amount": 0.00038714,
+            "tid": 200946144,
+            "timestamp": 1737634652
+        },
+        {
+            "type": "ask",
+            "price": 3.09969375,
+            "amount": 0.00038714,
+            "tid": 200946143,
+            "timestamp": 1737634652
+        },
+        {
+            "type": "ask",
+            "price": 3.09969376,
+            "amount": 0.00038714,
+            "tid": 200946142,
+            "timestamp": 1737634652
+        },
+        {
+            "type": "ask",
+            "price": 3.09969376,
+            "amount": 0.00038714,
+            "tid": 200946141,
+            "timestamp": 1737634652
+        },
+        {
+            "type": "ask",
+            "price": 3.09969377,
+            "amount": 0.00038714,
+            "tid": 200946140,
+            "timestamp": 1737634652
+        },
+        {
+            "type": "ask",
+            "price": 3.10079685,
+            "amount": 0.000387,
+            "tid": 200946139,
+            "timestamp": 1737634652
+        },
+        {
+            "type": "bid",
+            "price": 3.20766958,
+            "amount": 0.01167139,
+            "tid": 200946138,
+            "timestamp": 1737612143
+        },
+        {
+            "type": "ask",
+            "price": 3.23766149,
+            "amount": 1e-08,
+            "tid": 200946137,
+            "timestamp": 1737603342
+        },
+        {
+            "type": "ask",
+            "price": 3.23766149,
+            "amount": 71.58846586,
+            "tid": 200946136,
+            "timestamp": 1737603341
+        },
+        {
+            "type": "ask",
+            "price": 3.23766149,
+            "amount": 7.40894516,
+            "tid": 200946135,
+            "timestamp": 1737603339
+        },
+        {
+            "type": "ask",
+            "price": 3.23766149,
+            "amount": 21.86150735,
+            "tid": 200946134,
+            "timestamp": 1737603339
+        },
+        {
+            "type": "ask",
+            "price": 3.23766149,
+            "amount": 10.93075367,
+            "tid": 200946133,
+            "timestamp": 1737603339
+        },
+        {
+            "type": "ask",
+            "price": 3.23766149,
+            "amount": 7.40894516,
+            "tid": 200946132,
+            "timestamp": 1737603337
+        },
+        {
+            "type": "ask",
+            "price": 3.23766149,
+            "amount": 8.90632315,
+            "tid": 200946131,
+            "timestamp": 1737603336
+        },
+        {
+            "type": "ask",
+            "price": 3.23766149,
+            "amount": 9.54273424,
+            "tid": 200946130,
+            "timestamp": 1737603334
+        },
+        {
+            "type": "ask",
+            "price": 3.23766149,
+            "amount": 0.15212211,
+            "tid": 200946129,
+            "timestamp": 1737603332
+        },
+        {
+            "type": "ask",
+            "price": 3.23766149,
+            "amount": 9.54542711,
+            "tid": 200946128,
+            "timestamp": 1737603330
+        },
+        {
+            "type": "ask",
+            "price": 3.23766149,
+            "amount": 3.25423364,
+            "tid": 200946127,
+            "timestamp": 1737603328
+        },
+        {
+            "type": "ask",
+            "price": 3.23766149,
+            "amount": 8.90691615,
+            "tid": 200946126,
+            "timestamp": 1737603328
+        },
+        {
+            "type": "ask",
+            "price": 3.23766149,
+            "amount": 9.55030769,
+            "tid": 200946125,
+            "timestamp": 1737603327
+        },
+        {
+            "type": "ask",
+            "price": 3.23766149,
+            "amount": 9.5511856,
+            "tid": 200946124,
+            "timestamp": 1737603325
+        },
+        {
+            "type": "ask",
+            "price": 3.23766149,
+            "amount": 18.54922834,
+            "tid": 200946123,
+            "timestamp": 1737603324
+        },
+        {
+            "type": "ask",
+            "price": 3.23766149,
+            "amount": 7.88675958,
+            "tid": 200946122,
+            "timestamp": 1737603323
+        },
+        {
+            "type": "ask",
+            "price": 3.23766149,
+            "amount": 90.66435167,
+            "tid": 200946121,
+            "timestamp": 1737603323
+        },
+        {
+            "type": "ask",
+            "price": 3.23766149,
+            "amount": 3.94337979,
+            "tid": 200946120,
+            "timestamp": 1737603323
+        },
+        {
+            "type": "ask",
+            "price": 3.23766149,
+            "amount": 5.75646093,
+            "tid": 200946119,
+            "timestamp": 1737603323
+        },
+        {
+            "type": "bid",
+            "price": 3.23766149,
+            "amount": 0.18008573,
+            "tid": 200946118,
+            "timestamp": 1737603322
+        },
+        {
+            "type": "bid",
+            "price": 3.20594674,
+            "amount": 0.02900083,
+            "tid": 200946117,
+            "timestamp": 1737601705
+        },
+        {
+            "type": "ask",
+            "price": 3.082,
+            "amount": 7.74855554,
+            "tid": 200946116,
+            "timestamp": 1737590490
+        },
+        {
+            "type": "ask",
+            "price": 3.08369025,
+            "amount": 0.25144446,
+            "tid": 200946115,
+            "timestamp": 1737590490
+        },
+        {
+            "type": "bid",
+            "price": 3.0836439,
+            "amount": 62.44848581,
+            "tid": 200946114,
+            "timestamp": 1737587353
+        },
+        {
+            "type": "bid",
+            "price": 3.0836439,
+            "amount": 9.87062678,
+            "tid": 200946113,
+            "timestamp": 1737587352
+        },
+        {
+            "type": "bid",
+            "price": 3.0836439,
+            "amount": 5.77653068,
+            "tid": 200946112,
+            "timestamp": 1737587351
+        },
+        {
+            "type": "bid",
+            "price": 3.0836439,
+            "amount": 3.39933993,
+            "tid": 200946111,
+            "timestamp": 1737587348
+        },
+        {
+            "type": "bid",
+            "price": 3.0836439,
+            "amount": 9.87178553,
+            "tid": 200946110,
+            "timestamp": 1737587348
+        },
+        {
+            "type": "bid",
+            "price": 3.0836439,
+            "amount": 91,
+            "tid": 200946109,
+            "timestamp": 1737587347
+        },
+        {
+            "type": "bid",
+            "price": 3.0836439,
+            "amount": 206.21906635,
+            "tid": 200946108,
+            "timestamp": 1737587347
+        },
+        {
+            "type": "bid",
+            "price": 3.0836439,
+            "amount": 5.77653068,
+            "tid": 200946107,
+            "timestamp": 1737587346
+        },
+        {
+            "type": "ask",
+            "price": 3.0836439,
+            "amount": 0.22950932,
+            "tid": 200946106,
+            "timestamp": 1737587346
+        },
+        {
+            "type": "ask",
+            "price": 3.08195319,
+            "amount": 28.52558156,
+            "tid": 200946105,
+            "timestamp": 1737586890
+        },
+        {
+            "type": "ask",
+            "price": 3.14727702,
+            "amount": 0.24913245,
+            "tid": 200946104,
+            "timestamp": 1737586889
+        },
+        {
+            "type": "ask",
+            "price": 3.16539091,
+            "amount": 0.0003791,
+            "tid": 200946103,
+            "timestamp": 1737586889
+        },
+        {
+            "type": "ask",
+            "price": 3.26735976,
+            "amount": 0.09691781,
+            "tid": 200946102,
+            "timestamp": 1737575570
+        },
+        {
+            "type": "ask",
+            "price": 3.26735976,
+            "amount": 8,
+            "tid": 200946101,
+            "timestamp": 1737575570
+        },
+        {
+            "type": "ask",
+            "price": 3.26735976,
+            "amount": 5.77653068,
+            "tid": 200946100,
+            "timestamp": 1737575569
+        },
+        {
+            "type": "bid",
+            "price": 3.26735976,
+            "amount": 0.12655151,
+            "tid": 200946099,
+            "timestamp": 1737575568
+        },
+        {
+            "type": "bid",
+            "price": 3.21064969,
+            "amount": 0.00039766,
+            "tid": 200946098,
+            "timestamp": 1737575178
+        },
+        {
+            "type": "bid",
+            "price": 3.21064968,
+            "amount": 0.00039766,
+            "tid": 200946097,
+            "timestamp": 1737575140
+        },
+        {
+            "type": "bid",
+            "price": 3.21064967,
+            "amount": 0.00039766,
+            "tid": 200946096,
+            "timestamp": 1737575080
+        },
+        {
+            "type": "bid",
+            "price": 3.21064967,
+            "amount": 0.00039766,
+            "tid": 200946095,
+            "timestamp": 1737575080
+        },
+        {
+            "type": "bid",
+            "price": 3.21064966,
+            "amount": 0.00039766,
+            "tid": 200946094,
+            "timestamp": 1737575057
+        },
+        {
+            "type": "bid",
+            "price": 3.21064965,
+            "amount": 0.00039766,
+            "tid": 200946093,
+            "timestamp": 1737574985
+        },
+        {
+            "type": "bid",
+            "price": 3.21064964,
+            "amount": 0.00039766,
+            "tid": 200946092,
+            "timestamp": 1737574943
+        },
+        {
+            "type": "ask",
+            "price": 3.21,
+            "amount": 0.03763647,
+            "tid": 200946091,
+            "timestamp": 1737574458
+        },
+        {
+            "type": "ask",
+            "price": 3.21,
+            "amount": 0.03763647,
+            "tid": 200946090,
+            "timestamp": 1737574445
+        },
+        {
+            "type": "ask",
+            "price": 3.21,
+            "amount": 10.86078444,
+            "tid": 200946089,
+            "timestamp": 1737574402
+        },
+        {
+            "type": "bid",
+            "price": 3.21,
+            "amount": 0.0271726,
+            "tid": 200946088,
+            "timestamp": 1737574400
+        },
+        {
+            "type": "bid",
+            "price": 3.21,
+            "amount": 32.9728274,
+            "tid": 200946087,
+            "timestamp": 1737574400
+        },
+        {
+            "type": "bid",
+            "price": 3.20982885,
+            "amount": 0.06904944,
+            "tid": 200946086,
+            "timestamp": 1737574400
+        },
+        {
+            "type": "bid",
+            "price": 3.20855009,
+            "amount": 0.37152737,
+            "tid": 200946085,
+            "timestamp": 1737574400
+        },
+        {
+            "type": "bid",
+            "price": 3.20982885,
+            "amount": 0.14531555,
+            "tid": 200946084,
+            "timestamp": 1737573763
+        },
+        {
+            "type": "bid",
+            "price": 3.20901627,
+            "amount": 1,
+            "tid": 200946083,
+            "timestamp": 1737573763
+        },
+        {
+            "type": "bid",
+            "price": 3.20774564,
+            "amount": 0.19841248,
+            "tid": 200946082,
+            "timestamp": 1737573763
+        },
+        {
+            "type": "bid",
+            "price": 3.08322383,
+            "amount": 0.54088277,
+            "tid": 200946081,
+            "timestamp": 1737573763
+        },
+        {
+            "type": "bid",
+            "price": 3.08322383,
+            "amount": 1.34372803,
+            "tid": 200946080,
+            "timestamp": 1737573762
+        },
+        {
+            "type": "ask",
+            "price": 3.08322383,
+            "amount": 0.0003892,
+            "tid": 200946079,
+            "timestamp": 1737573762
+        },
+        {
+            "type": "ask",
+            "price": 3.08195319,
+            "amount": 0.22047291,
+            "tid": 200946078,
+            "timestamp": 1737566511
+        },
+        {
+            "type": "ask",
+            "price": 3.10246891,
+            "amount": 0.00038679,
+            "tid": 200946077,
+            "timestamp": 1737566510
+        },
+        {
+            "type": "ask",
+            "price": 3.10318957,
+            "amount": 0.0003867,
+            "tid": 200946076,
+            "timestamp": 1737566510
+        },
+        {
+            "type": "ask",
+            "price": 3.10318958,
+            "amount": 0.0003867,
+            "tid": 200946075,
+            "timestamp": 1737566510
+        },
+        {
+            "type": "ask",
+            "price": 3.10318959,
+            "amount": 0.0003867,
+            "tid": 200946074,
+            "timestamp": 1737566510
+        },
+        {
+            "type": "ask",
+            "price": 3.1031896,
+            "amount": 0.0003867,
+            "tid": 200946073,
+            "timestamp": 1737566510
+        },
+        {
+            "type": "ask",
+            "price": 3.10318961,
+            "amount": 0.0003867,
+            "tid": 200946072,
+            "timestamp": 1737566510
+        },
+        {
+            "type": "ask",
+            "price": 3.10318962,
+            "amount": 0.0003867,
+            "tid": 200946071,
+            "timestamp": 1737566510
+        },
+        {
+            "type": "ask",
+            "price": 3.10318963,
+            "amount": 0.0003867,
+            "tid": 200946070,
+            "timestamp": 1737566510
+        },
+        {
+            "type": "ask",
+            "price": 3.10318964,
+            "amount": 0.0003867,
+            "tid": 200946069,
+            "timestamp": 1737566510
+        },
+        {
+            "type": "ask",
+            "price": 3.10318965,
+            "amount": 0.0003867,
+            "tid": 200946068,
+            "timestamp": 1737566510
+        },
+        {
+            "type": "ask",
+            "price": 3.10318966,
+            "amount": 0.0003867,
+            "tid": 200946067,
+            "timestamp": 1737566510
+        },
+        {
+            "type": "ask",
+            "price": 3.10318967,
+            "amount": 0.0003867,
+            "tid": 200946066,
+            "timestamp": 1737566510
+        },
+        {
+            "type": "ask",
+            "price": 3.10318968,
+            "amount": 0.0003867,
+            "tid": 200946065,
+            "timestamp": 1737566510
+        },
+        {
+            "type": "ask",
+            "price": 3.10318969,
+            "amount": 0.0003867,
+            "tid": 200946064,
+            "timestamp": 1737566510
+        },
+        {
+            "type": "ask",
+            "price": 3.1031897,
+            "amount": 0.0003867,
+            "tid": 200946063,
+            "timestamp": 1737566510
+        },
+        {
+            "type": "ask",
+            "price": 3.10318971,
+            "amount": 0.0003867,
+            "tid": 200946062,
+            "timestamp": 1737566509
+        },
+        {
+            "type": "ask",
+            "price": 3.10318972,
+            "amount": 0.0003867,
+            "tid": 200946061,
+            "timestamp": 1737566509
+        },
+        {
+            "type": "ask",
+            "price": 3.10318973,
+            "amount": 0.0003867,
+            "tid": 200946060,
+            "timestamp": 1737566509
+        },
+        {
+            "type": "ask",
+            "price": 3.10318974,
+            "amount": 0.0003867,
+            "tid": 200946059,
+            "timestamp": 1737566509
+        },
+        {
+            "type": "ask",
+            "price": 3.10318975,
+            "amount": 0.0003867,
+            "tid": 200946058,
+            "timestamp": 1737566509
+        },
+        {
+            "type": "ask",
+            "price": 3.10318976,
+            "amount": 0.0003867,
+            "tid": 200946057,
+            "timestamp": 1737566509
+        },
+        {
+            "type": "ask",
+            "price": 3.10318977,
+            "amount": 0.0003867,
+            "tid": 200946056,
+            "timestamp": 1737566509
+        },
+        {
+            "type": "ask",
+            "price": 3.10318978,
+            "amount": 0.0003867,
+            "tid": 200946055,
+            "timestamp": 1737566509
+        },
+        {
+            "type": "ask",
+            "price": 3.10318979,
+            "amount": 0.0003867,
+            "tid": 200946054,
+            "timestamp": 1737566509
+        },
+        {
+            "type": "ask",
+            "price": 3.1031898,
+            "amount": 0.0003867,
+            "tid": 200946053,
+            "timestamp": 1737566509
+        },
+        {
+            "type": "ask",
+            "price": 3.10318981,
+            "amount": 0.0003867,
+            "tid": 200946052,
+            "timestamp": 1737566509
+        },
+        {
+            "type": "ask",
+            "price": 3.10318982,
+            "amount": 0.0003867,
+            "tid": 200946051,
+            "timestamp": 1737566509
+        },
+        {
+            "type": "ask",
+            "price": 3.10318983,
+            "amount": 0.0003867,
+            "tid": 200946050,
+            "timestamp": 1737566508
+        },
+        {
+            "type": "ask",
+            "price": 3.10318984,
+            "amount": 0.0003867,
+            "tid": 200946049,
+            "timestamp": 1737566508
+        },
+        {
+            "type": "ask",
+            "price": 3.10318985,
+            "amount": 0.0003867,
+            "tid": 200946048,
+            "timestamp": 1737566508
+        },
+        {
+            "type": "ask",
+            "price": 3.10318986,
+            "amount": 0.0003867,
+            "tid": 200946047,
+            "timestamp": 1737566508
+        },
+        {
+            "type": "ask",
+            "price": 3.10318986,
+            "amount": 0.0003867,
+            "tid": 200946046,
+            "timestamp": 1737566508
+        },
+        {
+            "type": "ask",
+            "price": 3.10318987,
+            "amount": 0.0003867,
+            "tid": 200946045,
+            "timestamp": 1737566508
+        },
+        {
+            "type": "ask",
+            "price": 3.10318988,
+            "amount": 0.0003867,
+            "tid": 200946044,
+            "timestamp": 1737566508
+        },
+        {
+            "type": "ask",
+            "price": 3.10318989,
+            "amount": 0.0003867,
+            "tid": 200946043,
+            "timestamp": 1737566508
+        },
+        {
+            "type": "ask",
+            "price": 3.1031899,
+            "amount": 0.0003867,
+            "tid": 200946042,
+            "timestamp": 1737566508
+        },
+        {
+            "type": "ask",
+            "price": 3.10318991,
+            "amount": 0.0003867,
+            "tid": 200946041,
+            "timestamp": 1737566508
+        },
+        {
+            "type": "ask",
+            "price": 3.10318992,
+            "amount": 0.0003867,
+            "tid": 200946040,
+            "timestamp": 1737566508
+        },
+        {
+            "type": "ask",
+            "price": 3.10318993,
+            "amount": 0.0003867,
+            "tid": 200946039,
+            "timestamp": 1737566508
+        },
+        {
+            "type": "ask",
+            "price": 3.10318994,
+            "amount": 0.0003867,
+            "tid": 200946038,
+            "timestamp": 1737566508
+        },
+        {
+            "type": "ask",
+            "price": 3.10318995,
+            "amount": 0.0003867,
+            "tid": 200946037,
+            "timestamp": 1737566507
+        },
+        {
+            "type": "ask",
+            "price": 3.10318996,
+            "amount": 0.0003867,
+            "tid": 200946036,
+            "timestamp": 1737566507
+        },
+        {
+            "type": "ask",
+            "price": 3.10318997,
+            "amount": 0.0003867,
+            "tid": 200946035,
+            "timestamp": 1737566507
+        },
+        {
+            "type": "ask",
+            "price": 3.10318998,
+            "amount": 0.0003867,
+            "tid": 200946034,
+            "timestamp": 1737566507
+        },
+        {
+            "type": "ask",
+            "price": 3.10318999,
+            "amount": 0.0003867,
+            "tid": 200946033,
+            "timestamp": 1737566507
+        },
+        {
+            "type": "ask",
+            "price": 3.10319,
+            "amount": 0.0003867,
+            "tid": 200946032,
+            "timestamp": 1737566507
+        },
+        {
+            "type": "ask",
+            "price": 3.10319001,
+            "amount": 0.0003867,
+            "tid": 200946031,
+            "timestamp": 1737566507
+        },
+        {
+            "type": "ask",
+            "price": 3.10319002,
+            "amount": 0.0003867,
+            "tid": 200946030,
+            "timestamp": 1737566507
+        },
+        {
+            "type": "ask",
+            "price": 3.10319003,
+            "amount": 0.0003867,
+            "tid": 200946029,
+            "timestamp": 1737566507
+        },
+        {
+            "type": "ask",
+            "price": 3.10319004,
+            "amount": 0.0003867,
+            "tid": 200946028,
+            "timestamp": 1737566507
+        },
+        {
+            "type": "ask",
+            "price": 3.10319005,
+            "amount": 0.0003867,
+            "tid": 200946027,
+            "timestamp": 1737566507
+        },
+        {
+            "type": "ask",
+            "price": 3.10319006,
+            "amount": 0.0003867,
+            "tid": 200946026,
+            "timestamp": 1737566507
+        },
+        {
+            "type": "ask",
+            "price": 3.10319007,
+            "amount": 0.0003867,
+            "tid": 200946025,
+            "timestamp": 1737566507
+        },
+        {
+            "type": "ask",
+            "price": 3.10319008,
+            "amount": 0.0003867,
+            "tid": 200946024,
+            "timestamp": 1737566507
+        },
+        {
+            "type": "ask",
+            "price": 3.10319009,
+            "amount": 0.0003867,
+            "tid": 200946023,
+            "timestamp": 1737566506
+        },
+        {
+            "type": "ask",
+            "price": 3.1031901,
+            "amount": 0.0003867,
+            "tid": 200946022,
+            "timestamp": 1737566506
+        },
+        {
+            "type": "ask",
+            "price": 3.10319011,
+            "amount": 0.0003867,
+            "tid": 200946021,
+            "timestamp": 1737566506
+        },
+        {
+            "type": "ask",
+            "price": 3.10319012,
+            "amount": 0.0003867,
+            "tid": 200946020,
+            "timestamp": 1737566506
+        },
+        {
+            "type": "ask",
+            "price": 3.10319013,
+            "amount": 0.0003867,
+            "tid": 200946019,
+            "timestamp": 1737566506
+        },
+        {
+            "type": "ask",
+            "price": 3.10319014,
+            "amount": 0.0003867,
+            "tid": 200946018,
+            "timestamp": 1737566506
+        },
+        {
+            "type": "ask",
+            "price": 3.10319015,
+            "amount": 0.0003867,
+            "tid": 200946017,
+            "timestamp": 1737566506
+        },
+        {
+            "type": "ask",
+            "price": 3.10319016,
+            "amount": 0.0003867,
+            "tid": 200946016,
+            "timestamp": 1737566506
+        },
+        {
+            "type": "ask",
+            "price": 3.10319017,
+            "amount": 0.0003867,
+            "tid": 200946015,
+            "timestamp": 1737566506
+        },
+        {
+            "type": "ask",
+            "price": 3.10319018,
+            "amount": 0.0003867,
+            "tid": 200946014,
+            "timestamp": 1737566506
+        },
+        {
+            "type": "ask",
+            "price": 3.10319018,
+            "amount": 0.0003867,
+            "tid": 200946013,
+            "timestamp": 1737566506
+        },
+        {
+            "type": "ask",
+            "price": 3.10319019,
+            "amount": 0.0003867,
+            "tid": 200946012,
+            "timestamp": 1737566506
+        },
+        {
+            "type": "ask",
+            "price": 3.1031902,
+            "amount": 0.0003867,
+            "tid": 200946011,
+            "timestamp": 1737566506
+        },
+        {
+            "type": "ask",
+            "price": 3.10319021,
+            "amount": 0.0003867,
+            "tid": 200946010,
+            "timestamp": 1737566506
+        },
+        {
+            "type": "ask",
+            "price": 3.10319022,
+            "amount": 0.0003867,
+            "tid": 200946009,
+            "timestamp": 1737566506
+        },
+        {
+            "type": "ask",
+            "price": 3.10319023,
+            "amount": 0.0003867,
+            "tid": 200946008,
+            "timestamp": 1737566506
+        },
+        {
+            "type": "ask",
+            "price": 3.10319024,
+            "amount": 0.0003867,
+            "tid": 200946007,
+            "timestamp": 1737566506
+        },
+        {
+            "type": "ask",
+            "price": 3.10319025,
+            "amount": 0.0003867,
+            "tid": 200946006,
+            "timestamp": 1737566505
+        },
+        {
+            "type": "ask",
+            "price": 3.10319026,
+            "amount": 0.0003867,
+            "tid": 200946005,
+            "timestamp": 1737566505
+        },
+        {
+            "type": "ask",
+            "price": 3.10319027,
+            "amount": 0.0003867,
+            "tid": 200946004,
+            "timestamp": 1737566505
+        },
+        {
+            "type": "ask",
+            "price": 3.10319028,
+            "amount": 0.0003867,
+            "tid": 200946003,
+            "timestamp": 1737566505
+        },
+        {
+            "type": "ask",
+            "price": 3.10319029,
+            "amount": 0.0003867,
+            "tid": 200946002,
+            "timestamp": 1737566505
+        },
+        {
+            "type": "ask",
+            "price": 3.1031903,
+            "amount": 0.0003867,
+            "tid": 200946001,
+            "timestamp": 1737566505
+        },
+        {
+            "type": "ask",
+            "price": 3.10319031,
+            "amount": 0.0003867,
+            "tid": 200946000,
+            "timestamp": 1737566505
+        },
+        {
+            "type": "ask",
+            "price": 3.10319032,
+            "amount": 0.0003867,
+            "tid": 200945999,
+            "timestamp": 1737566505
+        },
+        {
+            "type": "ask",
+            "price": 3.10390373,
+            "amount": 0.00038661,
+            "tid": 200945998,
+            "timestamp": 1737566505
+        },
+        {
+            "type": "ask",
+            "price": 3.10390374,
+            "amount": 0.00038661,
+            "tid": 200945997,
+            "timestamp": 1737566505
+        },
+        {
+            "type": "ask",
+            "price": 3.10390375,
+            "amount": 0.00038661,
+            "tid": 200945996,
+            "timestamp": 1737566505
+        },
+        {
+            "type": "ask",
+            "price": 3.10390376,
+            "amount": 0.00038661,
+            "tid": 200945995,
+            "timestamp": 1737566505
+        },
+        {
+            "type": "ask",
+            "price": 3.10390377,
+            "amount": 0.00038661,
+            "tid": 200945994,
+            "timestamp": 1737566505
+        },
+        {
+            "type": "ask",
+            "price": 3.10390378,
+            "amount": 0.00038661,
+            "tid": 200945993,
+            "timestamp": 1737566505
+        },
+        {
+            "type": "ask",
+            "price": 3.10390379,
+            "amount": 0.00038661,
+            "tid": 200945992,
+            "timestamp": 1737566505
+        },
+        {
+            "type": "ask",
+            "price": 3.1039038,
+            "amount": 0.00038661,
+            "tid": 200945991,
+            "timestamp": 1737566505
+        },
+        {
+            "type": "ask",
+            "price": 3.10390381,
+            "amount": 0.00038661,
+            "tid": 200945990,
+            "timestamp": 1737566505
+        },
+        {
+            "type": "ask",
+            "price": 3.10390382,
+            "amount": 0.00038661,
+            "tid": 200945989,
+            "timestamp": 1737566504
+        },
+        {
+            "type": "ask",
+            "price": 3.10390383,
+            "amount": 0.00038661,
+            "tid": 200945988,
+            "timestamp": 1737566504
+        },
+        {
+            "type": "ask",
+            "price": 3.10390383,
+            "amount": 0.00038661,
+            "tid": 200945987,
+            "timestamp": 1737566504
+        },
+        {
+            "type": "ask",
+            "price": 3.10390384,
+            "amount": 0.00038661,
+            "tid": 200945986,
+            "timestamp": 1737566504
+        },
+        {
+            "type": "ask",
+            "price": 3.10390385,
+            "amount": 0.00038661,
+            "tid": 200945985,
+            "timestamp": 1737566504
+        },
+        {
+            "type": "ask",
+            "price": 3.10390386,
+            "amount": 0.00038661,
+            "tid": 200945984,
+            "timestamp": 1737566504
+        },
+        {
+            "type": "ask",
+            "price": 3.10390387,
+            "amount": 0.00038661,
+            "tid": 200945983,
+            "timestamp": 1737566504
+        },
+        {
+            "type": "ask",
+            "price": 3.10390388,
+            "amount": 0.00038661,
+            "tid": 200945982,
+            "timestamp": 1737566504
+        },
+        {
+            "type": "ask",
+            "price": 3.10390389,
+            "amount": 0.00038661,
+            "tid": 200945981,
+            "timestamp": 1737566504
+        },
+        {
+            "type": "ask",
+            "price": 3.1039039,
+            "amount": 0.00038661,
+            "tid": 200945980,
+            "timestamp": 1737566504
+        },
+        {
+            "type": "ask",
+            "price": 3.10390391,
+            "amount": 0.00038661,
+            "tid": 200945979,
+            "timestamp": 1737566504
+        },
+        {
+            "type": "ask",
+            "price": 3.10390392,
+            "amount": 0.00038661,
+            "tid": 200945978,
+            "timestamp": 1737566504
+        },
+        {
+            "type": "ask",
+            "price": 3.10461023,
+            "amount": 0.00038652,
+            "tid": 200945977,
+            "timestamp": 1737566504
+        },
+        {
+            "type": "ask",
+            "price": 3.10461024,
+            "amount": 0.00038652,
+            "tid": 200945976,
+            "timestamp": 1737566504
+        },
+        {
+            "type": "ask",
+            "price": 3.10461025,
+            "amount": 0.00038652,
+            "tid": 200945975,
+            "timestamp": 1737566504
+        },
+        {
+            "type": "ask",
+            "price": 3.10461026,
+            "amount": 0.00038652,
+            "tid": 200945974,
+            "timestamp": 1737566503
+        },
+        {
+            "type": "ask",
+            "price": 3.10461027,
+            "amount": 0.00038652,
+            "tid": 200945973,
+            "timestamp": 1737566503
+        },
+        {
+            "type": "ask",
+            "price": 3.10461028,
+            "amount": 0.00038652,
+            "tid": 200945972,
+            "timestamp": 1737566503
+        },
+        {
+            "type": "ask",
+            "price": 3.10461029,
+            "amount": 0.00038652,
+            "tid": 200945971,
+            "timestamp": 1737566503
+        },
+        {
+            "type": "ask",
+            "price": 3.1046103,
+            "amount": 0.00038652,
+            "tid": 200945970,
+            "timestamp": 1737566503
+        },
+        {
+            "type": "ask",
+            "price": 3.10461031,
+            "amount": 0.00038652,
+            "tid": 200945969,
+            "timestamp": 1737566503
+        },
+        {
+            "type": "ask",
+            "price": 3.10461032,
+            "amount": 0.00038652,
+            "tid": 200945968,
+            "timestamp": 1737566503
         }
     ]
 }

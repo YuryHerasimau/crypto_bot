@@ -20,10 +20,49 @@ https://github.com/YuryHerasimau/crypto_bot.git
 pip install -r requirements.txt
 ``` 
 
-### Usage
-To run, use command line arguments:
+## Usage
+
+### Public API
+To use the public methods (fetching information about currency pairs, tickers, order depth, and trades), run the script with the corresponding `--mode` argument.
+
+Examples:
 ```
+python main.py --mode info
+python main.py --mode ticker --base eth
+python main.py --mode depth --base xrp --limit 100
 python main.py --mode trades --base btc --limit 1000
+```
+
+### Private API
+To use private API methods that require authentication through your API key and secret, use the `--private` flag and provide the required parameters, such as the coin name to fetch a deposit address.
+
+Examples:
+```
+python main.py --private --mode private_info
+python main.py --private --mode deposit_address --coin_name eth
+```
+
+### Arguments
+* `--mode`: Defines the mode of operation. Options include:
+    * `--info`: Fetch general info about available pairs on the exchange.
+    * `--ticker`: Get information about a currency pair (e.g., `btc_usdt`).
+    * `--depth`: Get the order book depth for a specific pair.
+    * `--trades`: Get trade data for a specific pair.
+    * `--private_info`: Fetch private information about balances and API privileges.
+    * `--deposit_address`: Fetch a deposit address for a specific coin.
+* `--base`: (Optional) The base currency (default is `btc`). Used for `ticker`, `depth`, `trades`, etc.
+* `--limit`: (Optional) The limit for depth or trades (default is `150`).
+* `--private`: (Optional) Flag to indicate that private API methods should be used.
+* `--coin_name`: (Optional) The coin name (e.g., `btc`, `eth`) for methods like `deposit_address`.
+
+## Environment Variables
+For API keys and secrets, create a `.env` file with the following content:
+```
+API_KEY=your_api_key_here
+API_SECRET=your_api_secret_here
+BASE_URL=https://yobit.net
+PUBLIC_API_URL=/api/3
+PRIVATE_API_URL=/tapi
 ```
 
 ## Features
@@ -39,4 +78,6 @@ python main.py --mode trades --base btc --limit 1000
 
 ## Roadmap
 - [x] Fetch cryptocurrency data.
+- [x] Add support for private API and CLI options.
 - [ ] Add support for multiple APIs.
+- [ ] Improve error handling and logging.
